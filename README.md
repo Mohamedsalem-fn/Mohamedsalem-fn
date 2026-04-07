@@ -47,25 +47,6 @@ Currently focused on building intelligent systems that leverage **LLMs**, **RAG 
 
 Curated selection of my work in Agentic AI, Automation, and Infrastructure.
 
-### [🌐 AWS VPS Infrastructure](https://github.com/Mohamedsalem-fn/aws-vps)
-**MLOps & Cloud Architecture**  
-Robust cloud deployment strategies and VPS management, ensuring scalable environments for AI model hosting and web services.
-
-### [📢 Broadcast Automation](https://github.com/Mohamedsalem-fn/broadcast)
-**System Automation**  
-An automated broadcasting system designed to streamline message delivery and workflow orchestration across multiple channels.
-
-### [🖥️ Desktop Tutorial](https://github.com/Mohamedsalem-fn/desktop-tutorial)
-**Engineering Knowledge Base**  
-Comprehensive technical guides and tutorials reflecting deep understanding of system internals and software engineering best practices.
-
-### [🕌 Islamic AI Model](https://github.com/Mohamedsalem-fn/islamic-model)
-**Domain-Specific NLP**  
-A specialized AI model trained on Islamic texts to provide accurate, context-aware answers. Demonstrates expertise in training custom models for niche, high-stakes domains.
-
-### [🧠 Islamic AI Project](https://github.com/Mohamedsalem-fn/islamic_ai_project)
-**Cultural AI & Fine-tuning**  
-Advanced research and implementation of AI models tailored for cultural and religious contexts, focusing on high-precision semantic understanding.
 
 ---
 
