@@ -1,76 +1,83 @@
 <div align="center">
 
-### 👋 Hi, I'm Mohamed Salem
+# Mohamed Salem
+### Expert AI Engineer & Automation Architect
 
-**Architecting Intelligent Systems | Agentic AI | LLMs | Cloud Infrastructure**
-
-*Exploring the frontiers of Agentic AI to bridge the gap between raw models and autonomous, production-ready agents.*
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsalem-fn&theme=dark&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=dark&hide_border=true)](https://github.com/Mohamedsalem-fn/github-readme-stats)
+[![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
 
 </div>
 
 ---
 
-## 🧠 Professional Identity
+## 👋 Who I Am
 
-I am an AI Engineer dedicated to the **practical deployment of Generative AI**. My focus extends beyond experimentation; I specialize in integrating Large Language Models into real-world ecosystems using **Agentic Frameworks** and **Low-Code Automation**.
+I am a software engineer turned **AI Specialist** with a foundation built on 4+ years of development discipline and 1 year of intensive AI engineering. I don't just run models; I architect **Agentic Systems** and **MLOps pipelines** that transform raw AI capabilities into scalable, production-ready automation solutions.
 
-I transform static models into dynamic actors capable of reasoning, communicating via APIs, and operating on scalable cloud infrastructure.
-
-## 🛠️ The AI Engineering Stack
-
-### Core AI & LLMs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C7C54?style=for-the-badge&logo=langchain&logoColor=white)
-
-### Automation & Infrastructure
-![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Currently focused on building intelligent systems that leverage **LLMs**, **RAG (Retrieval-Augmented Generation)**, and **Autonomous Agents** to solve complex real-world problems.
 
 ---
 
-## 🏆 Featured AI Ecosystem
+## 🎓 Education
 
-A curated selection of repositories demonstrating the full lifecycle of AI development, from infrastructure to fine-tuning.
-
-### [☁️ AWS VPS](https://github.com/Mohamedsalem-fn/aws-vps)
-**Infrastructure Backbone**
-*   **Focus:** Automated server configuration and cloud environment setup.
-*   **Impact:** Provides the robust foundation required to host AI models and agents 24/7.
-
-### [🧪 Islamic Model](https://github.com/Mohamedsalem-fn/islamic-model)
-**Domain-Specific LLM Fine-tuning**
-*   **Focus:** Specialized NLP model development for theological and linguistic datasets.
-*   **Impact:** Demonstrates advanced capability in curating datasets and fine-tuning transformers for high-precision niche requirements.
-
-### [🤖 Islamic AI Project](https://github.com/Mohamedsalem-fn/islamic_ai_project)
-**End-to-End AI Application**
-*   **Focus:** Integrating domain-specific models into functional user interfaces.
-*   **Impact:** Bridges the gap between research models and practical user interaction.
-
-### [📢 Broadcast](https://github.com/Mohamedsalem-fn/broadcast)
-**Agentic Communication Systems**
-*   **Focus:** High-volume messaging and automated broadcasting logic.
-*   **Impact:** Showcases the ability to scale AI interactions across communication channels.
-
-### [💻 Desktop Tutorial](https://github.com/Mohamedsalem-fn/desktop-tutorial)
-**System Configuration & Optimization**
-*   **Focus:** Environment setup and local development optimization.
-*   **Impact:** Ensures efficient workflows for AI development and testing.
+**Faculty of Computers and Informatics**  
+*Zagazig University*
 
 ---
 
-## 🤝 Let's Build the Future
+## 🛠️ Technical Arsenal
 
-I am currently open to collaborating on **Agentic AI projects** and **Infrastructure scaling**.
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=for-the-badge)]()
+[![Automation](https://img.shields.io/badge/Automation-Architect-green?style=for-the-badge)]()
+[![LLMs](https://img.shields.io/badge/LLMs-Specialist-orange?style=for-the-badge)]()
+[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Advanced-purple?style=for-the-badge)]()
+[![MLOps](https://img.shields.io/badge/MLOps-Production-red?style=for-the-badge)]()
 
-*   **📩 Email:** [Your Email Here]
-*   **💼 LinkedIn:** [Your LinkedIn Here]
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=tokyo_night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=tokyo_night)
+
+---
+
+## 🚀 Featured AI Ecosystem
+
+Curated selection of my work in Agentic AI, Automation, and Infrastructure.
+
+### [🌐 AWS VPS Infrastructure](https://github.com/Mohamedsalem-fn/aws-vps)
+**MLOps & Cloud Architecture**  
+Robust cloud deployment strategies and VPS management, ensuring scalable environments for AI model hosting and web services.
+
+### [📢 Broadcast Automation](https://github.com/Mohamedsalem-fn/broadcast)
+**System Automation**  
+An automated broadcasting system designed to streamline message delivery and workflow orchestration across multiple channels.
+
+### [🖥️ Desktop Tutorial](https://github.com/Mohamedsalem-fn/desktop-tutorial)
+**Engineering Knowledge Base**  
+Comprehensive technical guides and tutorials reflecting deep understanding of system internals and software engineering best practices.
+
+### [🕌 Islamic AI Model](https://github.com/Mohamedsalem-fn/islamic-model)
+**Domain-Specific NLP**  
+A specialized AI model trained on Islamic texts to provide accurate, context-aware answers. Demonstrates expertise in training custom models for niche, high-stakes domains.
+
+### [🧠 Islamic AI Project](https://github.com/Mohamedsalem-fn/islamic_ai_project)
+**Cultural AI & Fine-tuning**  
+Advanced research and implementation of AI models tailored for cultural and religious contexts, focusing on high-precision semantic understanding.
+
+---
+
+## 📩 Let's Collaborate
+
+I am always open to discussing complex AI architectures, automation challenges, or consulting opportunities.
+
+**Get in touch:**
+📧 **Email:** mohamedsalem.fn@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/elqary](https://www.linkedin.com/in/elqary/)  
+📱 **WhatsApp:** +20 110 778 4321
 
 <div align="center">
-  <i>“The best way to predict the future is to invent it with AI.”</i>
+  <i>"Building the bridge between human intent and machine execution."</i>
 </div>
