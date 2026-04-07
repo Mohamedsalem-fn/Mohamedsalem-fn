@@ -1,59 +1,76 @@
-# Mohamedsalem AI Infrastructure
+<div align="center">
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Mohamedsalem-fn/ci.yml?branch=main)](https://github.com/Mohamedsalem-fn/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+### 👋 Hi, I'm Mohamed Salem
 
-## Overview
+**Architecting Intelligent Systems | Agentic AI | LLMs | Cloud Infrastructure**
 
-This repository serves as a robust foundation for advanced AI engineering projects, designed to streamline the lifecycle of machine learning models from experimentation to production. It embodies elite engineering standards, prioritizing modularity, reproducibility, and scalability.
+*Exploring the frontiers of Agentic AI to bridge the gap between raw models and autonomous, production-ready agents.*
 
-## Key Features
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohamedsalem-fn&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=dark&hide_border=true)](https://github.com/Mohamedsalem-fn/github-readme-stats)
 
-- **Modular Architecture:** Clean separation of concerns between data processing, model training, and inference.
-- **Automated CI/CD:** Integrated GitHub Actions for linting, testing, and deployment.
-- **Containerization:** Docker support for consistent environments across development and production.
-- **Reproducibility:** Strict dependency management using `pyproject.toml` and `requirements.txt`.
-- **Documentation-First:** Auto-generated API documentation via MkDocs/Sphinx.
+</div>
 
-## Installation
+---
 
-Clone the repository and install the dependencies:
+## 🧠 Professional Identity
 
-```bash
-git clone https://github.com/Mohamedsalem-fn/Mohamedsalem-fn.git
-cd Mohamedsalem-fn
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
-```
+I am an AI Engineer dedicated to the **practical deployment of Generative AI**. My focus extends beyond experimentation; I specialize in integrating Large Language Models into real-world ecosystems using **Agentic Frameworks** and **Low-Code Automation**.
 
-## Usage
+I transform static models into dynamic actors capable of reasoning, communicating via APIs, and operating on scalable cloud infrastructure.
 
-Initialize the core pipeline:
+## 🛠️ The AI Engineering Stack
 
-```python
-from src.core import Pipeline
+### Core AI & LLMs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C7C54?style=for-the-badge&logo=langchain&logoColor=white)
 
-# Initialize the pipeline with default configurations
-pipeline = Pipeline(config="config/default.yaml")
+### Automation & Infrastructure
+![n8n](https://img.shields.io/badge/n8n-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-# Execute the training workflow
-pipeline.train()
+---
 
-# Run inference
-predictions = pipeline.predict(input_data)
-```
+## 🏆 Featured AI Ecosystem
 
-## AI Context
+A curated selection of repositories demonstrating the full lifecycle of AI development, from infrastructure to fine-tuning.
 
-This architecture is built upon the principles of MLOps best practices. It utilizes a data-centric approach, ensuring that data quality checks are embedded within the ingestion pipeline. The design supports seamless integration with popular frameworks like PyTorch and TensorFlow, allowing for rapid prototyping of neural networks and large language models (LLMs).
+### [☁️ AWS VPS](https://github.com/Mohamedsalem-fn/aws-vps)
+**Infrastructure Backbone**
+*   **Focus:** Automated server configuration and cloud environment setup.
+*   **Impact:** Provides the robust foundation required to host AI models and agents 24/7.
 
-## Contributing
+### [🧪 Islamic Model](https://github.com/Mohamedsalem-fn/islamic-model)
+**Domain-Specific LLM Fine-tuning**
+*   **Focus:** Specialized NLP model development for theological and linguistic datasets.
+*   **Impact:** Demonstrates advanced capability in curating datasets and fine-tuning transformers for high-precision niche requirements.
 
-Contributions are welcome! Please open an issue or submit a pull request. See `CONTRIBUTING.md` for details.
+### [🤖 Islamic AI Project](https://github.com/Mohamedsalem-fn/islamic_ai_project)
+**End-to-End AI Application**
+*   **Focus:** Integrating domain-specific models into functional user interfaces.
+*   **Impact:** Bridges the gap between research models and practical user interaction.
 
-## License
+### [📢 Broadcast](https://github.com/Mohamedsalem-fn/broadcast)
+**Agentic Communication Systems**
+*   **Focus:** High-volume messaging and automated broadcasting logic.
+*   **Impact:** Showcases the ability to scale AI interactions across communication channels.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### [💻 Desktop Tutorial](https://github.com/Mohamedsalem-fn/desktop-tutorial)
+**System Configuration & Optimization**
+*   **Focus:** Environment setup and local development optimization.
+*   **Impact:** Ensures efficient workflows for AI development and testing.
+
+---
+
+## 🤝 Let's Build the Future
+
+I am currently open to collaborating on **Agentic AI projects** and **Infrastructure scaling**.
+
+*   **📩 Email:** [Your Email Here]
+*   **💼 LinkedIn:** [Your LinkedIn Here]
+
+<div align="center">
+  <i>“The best way to predict the future is to invent it with AI.”</i>
+</div>
