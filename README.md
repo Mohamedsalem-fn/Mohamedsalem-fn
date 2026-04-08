@@ -1,12 +1,6 @@
-<div align="center">
-
-### 👋 Hi, I'm Mohamed Salem
-
-# [AI Engineer & Automation Architect](https://github.com/Mohamedsalem-fn)
-
-**Bridging the gap between robust Software Engineering and cutting-edge Artificial Intelligence.**
-
-I specialize in building **Agentic Systems**, **LLM-powered Automation**, and **MLOps pipelines** that transform theoretical AI into production-grade solutions.
+# 🚀 Mohamed Salem
+### **Expert AI Engineer & Automation Architect**
+*Building the future of Agentic Systems, LLMs, and Intelligent Automation.*
 
 [![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
@@ -14,72 +8,62 @@ I specialize in building **Agentic Systems**, **LLM-powered Automation**, and **
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+## 🧠 Professional Identity
 
-[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=flat-square)](https://github.com/Mohamedsalem-fn)
-[![Automation](https://img.shields.io/badge/Automation-Advanced-green?style=flat-square)](https://github.com/Mohamedsalem-fn)
-[![LLMs](https://img.shields.io/badge/LLs-LangChain--OpenAI-orange?style=flat-square)](https://github.com/Mohamedsalem-fn)
-[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Architect-purple?style=flat-square)](https://github.com/Mohamedsalem-fn)
-[![MLOps](https://img.shields.io/badge/MLOps-Docker--Deploy-red?style=flat-square)](https://github.com/Mohamedsalem-fn)
+With a robust foundation of **4+ years in Software Development** and a specialized focus on **1 year of high-intensity AI Engineering**, I bridge the gap between traditional software architecture and cutting-edge artificial intelligence.
 
-**Core Engineering:** Python | Software Architecture | Automation | Cloud Infrastructure  
-**AI & LLMs:** LangChain | OpenAI API | Hugging Face | RAG (Retrieval-Augmented Generation)  
-**MLOps:** Docker | Model Evaluation | Optimization | Deployment
+I specialize in designing **Autonomous Agents**, optimizing **LLM pipelines**, and implementing **MLOps strategies** that turn theoretical models into production-grade solutions. My work is driven by a single question: *How can we make software not just execute, but think?*
+
+**🎓 Education:** Faculty of Computers and Informatics, Zagazig University.
 
 ---
 
-### 📊 GitHub Analytics
+## 🛠 The Engineering Stack
+
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Architect-green?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-GPT4%20%7C%20Claude-black?style=flat-square)
+![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-AutoGen%20%7C%20CrewAI-purple?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-Docker%20%7C%20Git-orange?style=flat-square)
+
+---
+
+## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical&hide_border=true)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🚀 The Flagship: OmniBot Nexus
+## 🏆 Featured AI Ecosystem
 
-> **Status: ✅ Successfully Deployed**
+### 🌟 **Nexus: Multi-Agent Research Orchestration Framework**
+**Status:** 🚀 **Successfully Deployed**
 
-My most advanced project to date. **OmniBot Nexus** is a high-performance orchestration platform designed to handle complex multi-agent workflows.
+My flagship achievement. Nexus is a sophisticated framework designed to orchestrate multiple AI agents to handle complex research tasks autonomously. It represents the pinnacle of my work in **Agentic Systems** and **Automation**.
 
-**Key Capabilities:**
-*   🤖 **Agentic Workflows:** Autonomous decision-making loops.
-*   🔌 **Omni-channel Support:** Seamless integration across platforms.
-*   ⚡ **Real-time Processing:** Low-latency response architecture.
+*   **Core Tech:** Multi-Agent Orchestration, LLM Coordination, Task Decomposition.
+*   **Impact:** Streamlines complex research workflows by leveraging specialized autonomous agents.
 
-[**View OmniBot Nexus Repository**](https://github.com/Mohamedsalem-fn/omnibot_nexus)
+### 📂 Project Portfolio
 
----
+A curated selection of my work in AI, Automation, and Software Engineering.
 
-## 🧠 Featured AI Ecosystem
-
-Beyond the flagship, I have developed a suite of specialized tools focusing on **Market Intelligence** and **LLM Optimization**.
-
-| Project | Focus | Tech Highlights |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[MarketPulse](https://github.com/Mohamedsalem-fn/marketpulse-_real-time_competitive_intelligence_engine)** | Competitive Intelligence | Real-time data scraping & analysis engine. |
-| **[Neuro-Scout](https://github.com/Mohamedsalem-fn/neuro-scout_market_intelligence)** | Market Analytics | Advanced data processing for market trends. |
-| **[Omni-Channel AI Support](https://github.com/Mohamedsalem-fn/omni-channel_ai_support_orchestration_platform)** | Customer Automation | Orchestration layer for support systems. |
-| **[PromptForge](https://github.com/Mohamedsalem-fn/promptforge-_llm_evaluation_-_optimization_lab)** | LLM Engineering | Dedicated lab for prompt evaluation & optimization. |
-| **[Profile Repo](https://github.com/Mohamedsalem-fn/Mohamedsalem-fn)** | Configuration | Personal branding and profile configuration. |
+| **[Nexus Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** | The core engine behind my multi-agent research orchestration system. | Python, Agentic Patterns |
+| **[Neuro-Scout](https://github.com/Mohamedsalem-fn/neuro-scout_market_intelligence)** | AI-driven market intelligence tool for analyzing trends and data patterns. | Data Analysis, LLMs |
+| **[Omnibot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** | A versatile, multi-purpose conversational AI bot framework. | NLP, Chatbots |
+| **[Mohamedsalem-fn](https://github.com/Mohamedsalem-fn)** | Personal digital hub and configuration repository. | Web, Profile Config |
 
 ---
 
-## 📊 Professional Profile
+## 💡 Let's Build the Future
 
-*   **Experience:** 4+ Years in Software Development | 1+ Year Specialized in AI Engineering
-*   **Education:** Faculty of Computers and Informatics, Zagazig University
-*   **Mission:** To automate the complex and engineer the intelligent.
+I am currently open to collaborating on **Agentic AI projects** and **Complex Automation challenges**. If you are looking to integrate multi-agent systems into your business or need an expert to architect your AI solution, let's talk.
+
+📩 **Drop me a line:** [mohamedsalem.fn@gmail.com](mailto:mohamedsalem.fn@gmail.com)
 
 ---
 
-<div align="center">
-
-### 🤝 Let's Build the Future
-
-If you are looking for an engineer who can architect **scalable AI systems** rather than just run notebooks, let's connect.
-
-**[📩 Contact Me](mailto:mohamedsalem.fn@gmail.com)** | **[💼 LinkedIn](https://www.linkedin.com/in/elqary/)**
-
-</div>
+*"Code is logic. AI is intuition. I build systems that combine both."*
