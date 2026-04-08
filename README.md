@@ -2,97 +2,77 @@
 
 ### 👋 Hi, I'm Mohamed Salem
 
-**Architecting the Future of Intelligent Automation**
+**Expert AI Engineer & Automation Architect**
 
-[![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
+*Bridging the gap between robust software engineering and the frontier of Generative AI.*
 
-</div>
-
----
-
-## 🚀 Professional Identity
-
-I am an **Expert AI Engineer & Automation Architect** with a unique foundation: **4+ years of traditional Software Development** blended with **1 year of specialized AI Engineering**. 
-
-I don't just run models; I build **production-grade systems**. My focus lies at the intersection of **LLMs, Agentic Systems, and MLOps**, transforming complex AI capabilities into scalable, automated solutions.
-
-*🎓 Faculty of Computers and Informatics, Zagazig University*
-
----
-
-## 🛠 The Tech Stack
-
-<div align="center">
-
-### Core AI & Engineering
-[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=flat-square)](https://github.com/Mohamedsalem-fn)
-[![Automation](https://img.shields.io/badge/Automation-Architect-green?style=flat-square)](https://github.com/Mohamedsalem-fn)
-[![LLMs](https://img.shields.io/badge/LLMs-Specialist-purple?style=flat-square)](https://github.com/Mohamedsalem-fn)
-[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Advanced-orange?style=flat-square)](https://github.com/Mohamedsalem-fn)
-[![MLOps](https://img.shields.io/badge/MLOps-Production-red?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Professional Identity
 
-<div align="center">
+I am a software engineer with **4+ years of development experience**, now specialized in **AI Engineering**. I don't just run models; I build **Agentic Systems** and **Automation Pipelines** that transform how businesses operate.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical&hide_border=true)
-
-</div>
+With a background in Computer Science from **Zagazig University (Faculty of Computers and Informatics)**, I combine deep architectural knowledge with cutting-edge LLM capabilities to deploy autonomous solutions that scale.
 
 ---
 
-## 🏆 Featured AI Ecosystem
+## ⚡ Core Capabilities
 
-### 🌟 The Flagship: DocuMind
-**Enterprise RAG Knowledge Base** | *Status: Successfully Deployed*
+My focus is on the intersection of **MLOps** and **Product**.
 
-My most significant achievement to date. **DocuMind** is a production-ready Retrieval-Augmented Generation (RAG) system designed for enterprise knowledge management. It transforms unstructured data into actionable insights, demonstrating my ability to bridge the gap between experimental AI and business-critical infrastructure.
-
-*   **Key Tech:** RAG Architecture, Vector Databases, Enterprise Deployment.
-*   **[View Repository](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)**
-
-### 🤖 Nexus Framework
-**Multi-Agent Research Orchestration**
-
-A sophisticated framework designed to coordinate multiple AI agents for complex research tasks. This project highlights my capability to design **Agentic Systems** where autonomous agents collaborate to achieve overarching goals.
-
-*   **Focus:** Orchestration, Agent Collaboration, Task Automation.
-*   **[View Repository](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)**
-
-### 💬 Omnibot Nexus
-**Next-Gen Conversational Interface**
-
-An advanced conversational AI platform that pushes the boundaries of human-machine interaction. This project serves as the testing ground for my latest experiments in **LLM fine-tuning and context management**.
-
-*   **Focus:** NLP, Context Awareness, User Experience.
-*   **[View Repository](https://github.com/Mohamedsalem-fn/omnibot_nexus)**
-
-### 🌐 The Hub
-**Mohamedsalem-fn**
-
-The central repository for my digital presence, containing the configuration and orchestration code that powers my personal developer ecosystem.
-*   **[View Repository](https://github.com/Mohamedsalem-fn/Mohamedsalem-fn)**
+[![AI Engineering](https://img.shields.io/badge/AI_Engineing-Expert-blue?style=flat)]()
+[![Automation](https://img.shields.io/badge/Automation-Architect-green?style=flat)]()
+[![LLMs](https://img.shields.io/badge/LLMs-Integration-purple?style=flat)]()
+[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Design-orange?style=flat)]()
+[![MLOps](https://img.shields.io/badge/MLOps-Deployment-red?style=flat)]()
 
 ---
 
-## 📬 Let's Build the Future
+## 📊 GitHub Stats
 
-I am always open to discussing complex AI architectures, automation opportunities, and enterprise solutions.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical)
 
-**Get in touch:**
-*   📧 **Email:** mohamedsalem.fn@gmail.com
-*   📱 **WhatsApp:** +20 110 778 4321
-*   💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/elqary/)
+---
+
+## 🌟 Featured Project: Nexus Ecosystem
+
+My current primary focus is the **Nexus** suite—a collection of cross-platform tools designed to automate intelligence and concierge services.
+
+### 🏆 Hero Deployment: Nexus AI Concierge
+**[nexus-_cross_platform_ai_concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)**
+> *The flagship autonomous assistant deployed across multiple platforms.*
+
+A sophisticated cross-platform AI agent capable of handling complex user queries, task execution, and context retention. This project demonstrates my ability to take an AI model from concept to full production deployment.
+
+---
+
+## 🗂️ The AI Portfolio
+
+A curated list of my public repositories showcasing expertise in RAG, Media Automation, and Orchestration.
+
+| Project | Description | Tech Focus |
+| :--- | :--- | :--- |
+| **[Nexus Multi-Agent Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** | An orchestration layer managing multiple specialized AI agents for research tasks. | **Agentic Orchestration** |
+| **[Documind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** | Enterprise-grade RAG (Retrieval-Augmented Generation) system for knowledge bases. | **RAG / Vector DBs** |
+| **[ContentCascade](https://github.com/Mohamedsalem-fn/contentcascade-_automated_media_repurposing_pipeline)** | Automated pipeline for repurposing media content across social channels. | **Media Automation** |
+| **[Omnibot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** | A versatile chatbot interface designed for high-volume interactions. | **LLM Integration** |
+
+---
+
+## 📩 Let's Collaborate
+
+I am currently open to discussing complex automation challenges and high-impact AI projects.
+
+**📧 Email:** mohamedsalem.fn@gmail.com
+**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/elqary/)
 
 <div align="center">
-
-*"Building the brain, coding the nervous system."*
-
+*Built with passion for the future of AI.*
 </div>
