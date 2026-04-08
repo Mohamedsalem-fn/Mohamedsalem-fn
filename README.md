@@ -1,78 +1,85 @@
 <div align="center">
 
-### 👋 Hi, I'm Mohamed Salem
+# 👋 Hi, I'm Mohamed Salem
 
-**Expert AI Engineer & Automation Architect**
+### **Expert AI Engineer & Automation Architect**
+*Bridging the gap between robust Software Engineering & Agentic Intelligence*
 
-*Bridging the gap between robust software engineering and the frontier of Generative AI.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
+[![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
 
 </div>
 
 ---
 
-## 🧠 Professional Identity
+## 🚀 Who I Am
 
-I am a software engineer with **4+ years of development experience**, now specialized in **AI Engineering**. I don't just run models; I build **Agentic Systems** and **Automation Pipelines** that transform how businesses operate.
+I am a **Software Engineer turned AI Architect** with over 4 years of development experience and a specialized focus on **AI Engineering** for the past year. 
 
-With a background in Computer Science from **Zagazig University (Faculty of Computers and Informatics)**, I combine deep architectural knowledge with cutting-edge LLM capabilities to deploy autonomous solutions that scale.
+I don't just run models; I build **Autonomous Ecosystems**. My background in traditional software engineering allows me to deploy LLMs and Agentic Systems that are scalable, secure, and actually production-ready.
 
----
-
-## ⚡ Core Capabilities
-
-My focus is on the intersection of **MLOps** and **Product**.
-
-[![AI Engineering](https://img.shields.io/badge/AI_Engineing-Expert-blue?style=flat)]()
-[![Automation](https://img.shields.io/badge/Automation-Architect-green?style=flat)]()
-[![LLMs](https://img.shields.io/badge/LLMs-Integration-purple?style=flat)]()
-[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Design-orange?style=flat)]()
-[![MLOps](https://img.shields.io/badge/MLOps-Deployment-red?style=flat)]()
+**🎓 Education:** Faculty of Computers and Informatics, Zagazig University.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Expertise
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical)
-
----
-
-## 🌟 Featured Project: Nexus Ecosystem
-
-My current primary focus is the **Nexus** suite—a collection of cross-platform tools designed to automate intelligence and concierge services.
-
-### 🏆 Hero Deployment: Nexus AI Concierge
-**[nexus-_cross_platform_ai_concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)**
-> *The flagship autonomous assistant deployed across multiple platforms.*
-
-A sophisticated cross-platform AI agent capable of handling complex user queries, task execution, and context retention. This project demonstrates my ability to take an AI model from concept to full production deployment.
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=flat&logo=python)](#)
+[![Automation](https://img.shields.io/badge/Automation-Architect-green?style=flat&logo=robot)](#)
+[![LLMs](https://img.shields.io/badge/LLMs-Integration-purple?style=flat&logo=openai)](#)
+[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Orchestration-orange?style=flat)](#)
+[![MLOps](https://img.shields.io/badge/MLOps-Pipelines-red?style=flat&logo=githubactions)](#)
 
 ---
 
-## 🗂️ The AI Portfolio
-
-A curated list of my public repositories showcasing expertise in RAG, Media Automation, and Orchestration.
-
-| Project | Description | Tech Focus |
-| :--- | :--- | :--- |
-| **[Nexus Multi-Agent Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** | An orchestration layer managing multiple specialized AI agents for research tasks. | **Agentic Orchestration** |
-| **[Documind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** | Enterprise-grade RAG (Retrieval-Augmented Generation) system for knowledge bases. | **RAG / Vector DBs** |
-| **[ContentCascade](https://github.com/Mohamedsalem-fn/contentcascade-_automated_media_repurposing_pipeline)** | Automated pipeline for repurposing media content across social channels. | **Media Automation** |
-| **[Omnibot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** | A versatile chatbot interface designed for high-volume interactions. | **LLM Integration** |
-
----
-
-## 📩 Let's Collaborate
-
-I am currently open to discussing complex automation challenges and high-impact AI projects.
-
-**📧 Email:** mohamedsalem.fn@gmail.com
-**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/elqary/)
+## 📊 GitHub Analytics
 
 <div align="center">
-*Built with passion for the future of AI.*
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Mohamed Salem's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+</div>
+
+---
+
+## 🏆 Featured Deployment: SentinelOps
+
+<div align="center">
+
+### 🛡️ [SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)
+**Status: ✅ Successfully Deployed**
+
+*The next generation of operational monitoring and automated response systems.*
+
+</div>
+
+**SentinelOps** represents my current focus: utilizing AI to create self-healing and intelligent operational frameworks. It combines rigorous DevOps principles with advanced AI monitoring to ensure system reliability.
+
+---
+
+## 🌌 The AI Ecosystem
+
+Beyond my flagship deployment, I maintain a suite of open-source tools designed to automate workflows and enhance knowledge retrieval.
+
+| Project | Focus | Tech Highlights |
+| :--- | :--- | :--- |
+| **[Nexus: Multi-Agent Research Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** | **Agentic Orchestration** | Coordinates multiple AI agents to handle complex research tasks autonomously. |
+| **[Nexus: Cross-Platform Concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** | **User Experience** | An AI assistant capable of operating seamlessly across different platforms and devices. |
+| **[Documind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** | **Enterprise RAG** | A robust knowledge base system leveraging RAG for intelligent document querying. |
+| **[ContentCascade](https://github.com/Mohamedsalem-fn/contentcascade-_automated_media_repurposing_pipeline)** | **Media Automation** | An automated pipeline for repurposing content using generative AI models. |
+| **[Omnibot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** | **Conversational AI** | A versatile chatbot framework designed for high-volume interactions. |
+| **[Profile Repository](https://github.com/Mohamedsalem-fn/Mohamedsalem-fn)** | **Portfolio** | The central hub for my open-source contributions and digital identity. |
+
+---
+
+## 🤝 Let's Build the Future
+
+I am always open to discussing complex AI architectures, automation pipelines, and enterprise-grade LLM integration.
+
+**Get in touch:**
+📧 **mohamedsalem.fn@gmail.com**
+💼 **[LinkedIn](https://www.linkedin.com/in/elqary/)**
+
+<div align="center">
+*Built with passion, code, and intelligence.*
 </div>
