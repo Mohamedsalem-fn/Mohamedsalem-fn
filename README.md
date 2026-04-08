@@ -1,64 +1,85 @@
 <div align="center">
 
-# Mohamed Salem
-### Expert AI Engineer & Automation Architect
+### 👋 Hi, I'm Mohamed Salem
+
+# [AI Engineer & Automation Architect](https://github.com/Mohamedsalem-fn)
+
+**Bridging the gap between robust Software Engineering and cutting-edge Artificial Intelligence.**
+
+I specialize in building **Agentic Systems**, **LLM-powered Automation**, and **MLOps pipelines** that transform theoretical AI into production-grade solutions.
 
 [![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
 
+---
+
+### 🛠️ Tech Stack & Expertise
+
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![Automation](https://img.shields.io/badge/Automation-Advanced-green?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![LLMs](https://img.shields.io/badge/LLs-LangChain--OpenAI-orange?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Architect-purple?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![MLOps](https://img.shields.io/badge/MLOps-Docker--Deploy-red?style=flat-square)](https://github.com/Mohamedsalem-fn)
+
+**Core Engineering:** Python | Software Architecture | Automation | Cloud Infrastructure  
+**AI & LLMs:** LangChain | OpenAI API | Hugging Face | RAG (Retrieval-Augmented Generation)  
+**MLOps:** Docker | Model Evaluation | Optimization | Deployment
+
+---
+
+### 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
-## 👋 Who I Am
+## 🚀 The Flagship: OmniBot Nexus
 
-I am a software engineer turned **AI Specialist** with a foundation built on 4+ years of development discipline and 1 year of intensive AI engineering. I don't just run models; I architect **Agentic Systems** and **MLOps pipelines** that transform raw AI capabilities into scalable, production-ready automation solutions.
+> **Status: ✅ Successfully Deployed**
 
-Currently focused on building intelligent systems that leverage **LLMs**, **RAG (Retrieval-Augmented Generation)**, and **Autonomous Agents** to solve complex real-world problems.
+My most advanced project to date. **OmniBot Nexus** is a high-performance orchestration platform designed to handle complex multi-agent workflows.
 
----
+**Key Capabilities:**
+*   🤖 **Agentic Workflows:** Autonomous decision-making loops.
+*   🔌 **Omni-channel Support:** Seamless integration across platforms.
+*   ⚡ **Real-time Processing:** Low-latency response architecture.
 
-## 🎓 Education
-
-**Faculty of Computers and Informatics**  
-*Zagazig University*
-
----
-
-## 🛠️ Technical Arsenal
-
-[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=for-the-badge)]()
-[![Automation](https://img.shields.io/badge/Automation-Architect-green?style=for-the-badge)]()
-[![LLMs](https://img.shields.io/badge/LLMs-Specialist-orange?style=for-the-badge)]()
-[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Advanced-purple?style=for-the-badge)]()
-[![MLOps](https://img.shields.io/badge/MLOps-Production-red?style=for-the-badge)]()
+[**View OmniBot Nexus Repository**](https://github.com/Mohamedsalem-fn/omnibot_nexus)
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Featured AI Ecosystem
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=tokyo_night)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=tokyo_night)
+Beyond the flagship, I have developed a suite of specialized tools focusing on **Market Intelligence** and **LLM Optimization**.
+
+| Project | Focus | Tech Highlights |
+| :--- | :--- | :--- |
+| **[MarketPulse](https://github.com/Mohamedsalem-fn/marketpulse-_real-time_competitive_intelligence_engine)** | Competitive Intelligence | Real-time data scraping & analysis engine. |
+| **[Neuro-Scout](https://github.com/Mohamedsalem-fn/neuro-scout_market_intelligence)** | Market Analytics | Advanced data processing for market trends. |
+| **[Omni-Channel AI Support](https://github.com/Mohamedsalem-fn/omni-channel_ai_support_orchestration_platform)** | Customer Automation | Orchestration layer for support systems. |
+| **[PromptForge](https://github.com/Mohamedsalem-fn/promptforge-_llm_evaluation_-_optimization_lab)** | LLM Engineering | Dedicated lab for prompt evaluation & optimization. |
+| **[Profile Repo](https://github.com/Mohamedsalem-fn/Mohamedsalem-fn)** | Configuration | Personal branding and profile configuration. |
 
 ---
 
-## 🚀 Featured AI Ecosystem
+## 📊 Professional Profile
 
-Curated selection of my work in Agentic AI, Automation, and Infrastructure.
-
+*   **Experience:** 4+ Years in Software Development | 1+ Year Specialized in AI Engineering
+*   **Education:** Faculty of Computers and Informatics, Zagazig University
+*   **Mission:** To automate the complex and engineer the intelligent.
 
 ---
-
-## 📩 Let's Collaborate
-
-I am always open to discussing complex AI architectures, automation challenges, or consulting opportunities.
-
-**Get in touch:**
-📧 **Email:** mohamedsalem.fn@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/elqary](https://www.linkedin.com/in/elqary/)  
-📱 **WhatsApp:** +20 110 778 4321
 
 <div align="center">
-  <i>"Building the bridge between human intent and machine execution."</i>
+
+### 🤝 Let's Build the Future
+
+If you are looking for an engineer who can architect **scalable AI systems** rather than just run notebooks, let's connect.
+
+**[📩 Contact Me](mailto:mohamedsalem.fn@gmail.com)** | **[💼 LinkedIn](https://www.linkedin.com/in/elqary/)**
+
 </div>
