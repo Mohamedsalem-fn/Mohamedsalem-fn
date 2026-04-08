@@ -1,89 +1,79 @@
-# 👋 Hi, I'm Mohamed Salem
-
-### <div align="center">**Architecting Autonomous AI Systems & Intelligent Automation**</div>
-
 <div align="center">
-  <i>Building the bridge between robust software engineering and the next generation of Agentic AI.</i>
-</div>
 
-<br/>
+### 👋 Hi, I'm Mohamed Salem
 
-With a foundation of **4+ years in Software Development** and a specialized focus on **AI Engineering**, I design and deploy intelligent systems that think, adapt, and automate. I don't just write code; I orchestrate LLMs, build multi-agent frameworks, and engineer solutions that scale.
+### 🤖 AI Engineer & Automation Architect
+*[Building the bridge between LLMs and Autonomous Operations]*
 
-🎓 **Faculty of Computers and Informatics, Zagazig University**
+🔭 **Current Focus:** Deploying **OpsBot**, a WhatsApp-native DevOps Orchestrator.
 
----
+🌱 **Expertise:** Agentic Systems | MLOps | LLMs | Automation
 
-## 🛠️ Technical Arsenal
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/elqary/) | [Email](mailto:mohamedsalem.fn@gmail.com) | [WhatsApp](https://wa.me/201107784321)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI_Engineering-Expert-blue?style=for-the-badge&logo=python" alt="AI Engineering">
-  <img src="https://img.shields.io/badge/Automation-Automated-green?style=for-the-badge&logo=githubactions" alt="Automation">
-  <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20HuggingFace-orange?style=for-the-badge" alt="LLMs">
-  <img src="https://img.shields.io/badge/Agentic_Systems-LangChain-red?style=for-the-badge" alt="Agentic Systems">
-  <img src="https://img.shields.io/badge/MLOps-Deployment-purple?style=for-the-badge&logo=docker" alt="MLOps">
-</div>
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue) ![Automation](https://img.shields.io/badge/Automation-Architect-green) ![LLMs](https://img.shields.io/badge/LLMs-Specialist-purple) ![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Builder-orange) ![MLOps](https://img.shields.io/badge/MLOps-Engineer-red)
 
-<br/>
-
-**Core AI & Engineering**
-*   **AI Engineering:** LLMs, RAG (Retrieval-Augmented Generation), Agentic Systems, Prompt Engineering.
-*   **Automation:** Workflow Orchestration, Autonomous Auditing, Media Pipelines.
-*   **MLOps:** Model Deployment, Pipeline Optimization, System Monitoring.
-
-**Development Stack**
-*   **Languages:** Python, TypeScript/JavaScript.
-*   **Frameworks:** LangChain, OpenAI API, Hugging Face, FastAPI.
-*   **Infrastructure:** Docker, Cloud Platforms, CI/CD.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Mohamed Salem's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
-## 🏆 Featured Deployment: CodeSentry
+### 🎯 Who I Am
+I am an AI Engineer with a strong foundation in software development (**4+ Years Dev** + **1 Year AI**). With a degree from the Faculty of Computers and Informatics (Zagazig University), I specialize in designing **Autonomous Agents** and **Intelligent Automation Pipelines**.
 
-### 🛡️ CodeSentry: Autonomous Security Auditor
-**[Status: ✅ Successfully Deployed]**
-
-My flagship project and current primary focus. CodeSentry represents the pinnacle of autonomous AI engineering—a self-sustaining security agent capable of auditing codebases with minimal human intervention.
-
-*   **🚀 The Innovation:** Leverages advanced LLMs to detect vulnerabilities, suggest fixes, and learn from new attack vectors in real-time.
-*   **🎯 The Impact:** Transforms passive security scanning into active, intelligent defense.
-*   **🔗 [View CodeSentry Repository](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)**
+I don't just write code; I orchestrate systems that think, adapt, and execute. My work focuses on reducing human overhead in complex workflows through advanced Agentic AI and MLOps strategies.
 
 ---
 
-## 🧠 The AI Ecosystem
+### 📊 GitHub Analytics
+<div align="center">
 
-Beyond my flagship work, I maintain a suite of open-source tools pushing the boundaries of what AI can achieve.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&hide_border=true)
 
-| Project | Category | Description |
-| :--- | :---: | :--- |
-| **[Nexus: Multi-Agent Research Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** | 🤖 **Agentic AI** | An orchestration framework managing multiple AI agents for complex research tasks. |
-| **[Nexus: Cross-Platform Concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** | 📱 **Automation** | A versatile AI assistant designed to operate seamlessly across different platforms and devices. |
-| **[OmniBot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** | 🤖 **Agentic AI** | The core bot logic powering the Nexus ecosystem's conversational capabilities. |
-| **[DocuMind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** | 🏢 **Enterprise RAG** | A high-performance knowledge base utilizing RAG to unlock insights from enterprise documents. |
-| **[ContentCascade](https://github.com/Mohamedsalem-fn/contentcascade-_automated_media_repurposing_pipeline)** | 🎥 **Media Pipeline** | An automated pipeline that repurposes content for multi-channel distribution using AI. |
-| **[SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)** | 🛡️ **DevOps/Sec** | Operational tools and scripts for maintaining system integrity and security monitoring. |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-## 📡 Let's Connect
+### 🏆 Featured Deployment: OpsBot
+<div align="center">
 
-I am always open to discussing complex AI architectures, automation opportunities, or collaborative projects.
+### 🚀 **OpsBot: WhatsApp DevOps Orchestrator**
+*[The latest achievement in Agentic Automation]*
 
-*   **📧 Email:** [mohamedsalem.fn@gmail.com](mailto:mohamedsalem.fn@gmail.com)
-*   **💼 LinkedIn:** [linkedin.com/in/elqary](https://www.linkedin.com/in/elqary/)
-*   **📱 WhatsApp:** [+20 110 778 4321](https://wa.me/201107784321)
+**Status:** ✅ Successfully Deployed
+
+OpsBot transforms your WhatsApp into a mobile DevOps command center. It allows teams to monitor, trigger, and manage infrastructure workflows directly from chat, bridging the gap between on-the-go communication and critical backend operations.
+
+[🔗 View OpsBot](https://github.com/Mohamedsalem-fn/opsbot-_whatsapp_devops_orchestrator)
+
+</div>
+
+---
+
+### 🧠 The AI Ecosystem
+*A collection of autonomous agents and intelligent tools.*
+
+| Project | Description | Tech Focus |
+| :--- | :--- | :--- |
+| **[CodeSentry](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)** | Autonomous Security Auditor | Security AI, Automation |
+| **[ContentCascade](https://github.com/Mohamedsalem-fn/contentcascade-_automated_media_repurposing_pipeline)** | Automated Media Repurposing Pipeline | Media AI, Workflow Automation |
+| **[DocuMind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** | Enterprise RAG Knowledge Base | RAG, Enterprise Search |
+| **[Nexus Concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** | Cross-Platform AI Concierge | Agentic UI, Cross-Platform |
+| **[Nexus Research](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** | Multi-Agent Research Framework | Multi-Agent Orchestration |
+| **[OmniBot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** | Advanced Bot Architecture | Bot Framework, Scalability |
+| **[SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)** | Operational Monitoring | Monitoring, Ops |
+
+---
+
+### 📈 Let's Collaborate
+I am always open to discussing **Agentic AI**, **MLOps**, and **Automation Architecture**. Whether it's optimizing a pipeline or designing a new multi-agent system, let's talk.
+
+📩 **Email:** mohamedsalem.fn@gmail.com
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/elqary/)
 
 <div align="center">
-  <br/>
-  <i>⚡ Building the future, one autonomous agent at a time.</i>
+
+**"Automating the future, one agent at a time."**
+
 </div>
