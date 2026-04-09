@@ -2,77 +2,107 @@
 
 ### 👋 Hi, I'm Mohamed Salem
 
-### 🤖 Expert AI Engineer & Automation Architect
-*[Bridging the gap between Traditional Software Engineering & Autonomous Intelligence]*
+# 🤖 AI Engineering & Automation Architect
 
-🔗 **Connect with me**
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25">](https://www.linkedin.com/in/elqary/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">](mailto:mohamedsalem.fn@gmail.com)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25">](https://wa.me/201107784321)
+*Building the future of Agentic Systems, LLMs, and Intelligent Automation.*
+
+[![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
 
 </div>
 
 ---
 
-### 🚀 About Me
-I am a **Software Engineer turned AI Architect** with over 4 years of development experience and a specialized focus on **Agentic Systems, LLMs, and MLOps**. 
+## 🧠 Professional Identity
 
-I don't just experiment with AI; I build production-grade ecosystems. My background in traditional software engineering allows me to design robust automation pipelines and scalable AI infrastructures that solve real-world problems. Currently, I am focused on the intersection of **AI Security** and **Autonomous Agents**.
+I am an **Expert AI Engineer** with a robust foundation in software development. With **4+ years in Dev** and **1 year specialized in AI**, I bridge the gap between traditional software architecture and cutting-edge artificial intelligence.
 
-🎓 **Alumnus:** Faculty of Computers and Informatics, Zagazig University.
+My focus is on designing **Autonomous Agents**, **MLOps pipelines**, and **Enterprise RAG systems** that don't just work—they scale. I don't just run models; I engineer the intelligence around them.
 
----
-
-### 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical" alt="Top Languages"/>
+**🎓 Education:** Faculty of Computers and Informatics, Zagazig University.
 
 ---
 
-### ⚡ Technical Arsenal
-<img src="https://img.shields.io/badge/AI_Engineering-Expert-blue?style=for-the-badge" alt="AI Engineering"/>
-<img src="https://img.shields.io/badge/Automation-Architect-green?style=for-the-badge" alt="Automation"/>
-<img src="https://img.shields.io/badge/LLMs-Mastery-purple?style=for-the-badge" alt="LLMs"/>
-<img src="https://img.shields.io/badge/Agentic_Systems-Advanced-red?style=for-the-badge" alt="Agentic Systems"/>
-<img src="https://img.shields.io/badge/MLOps-DevOps-orange?style=for-the-badge" alt="MLOps"/>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-### 🛡️ Current Focus: PromptGuard
-**[Adversarial Red-Teaming Suite]** • *Status: Successfully Deployed* 🚀
+## ⚡ Core Capabilities
 
-My latest flagship project designed to stress-test and secure LLM applications against prompt injection, jailbreaking, and adversarial attacks.
+<div align="center">
 
-- **🔍 Core Capability:** Automated vulnerability scanning for AI models.
-- **🛡️ Impact:** Ensuring enterprise-grade safety for AI deployments.
-- **🔗 [View Repository](https://github.com/Mohamedsalem-fn/promptguard-_adversarial_red_teaming_suite)**
+![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Automated-green?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Advanced-purple?style=for-the-badge)
+![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Architect-orange?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-Production-red?style=for-the-badge)
+
+</div>
 
 ---
 
-### 🌌 The AI Ecosystem
-*A curated selection of my open-source contributions and autonomous systems.*
+## 🚀 Featured Deployment: EvalOps
 
-#### 🔒 Security & Auditing
-*   **[CodeSentry](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)** - Autonomous security auditor for codebases.
-*   **[SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)** - Operational security monitoring suite.
+> **🔥 LATEST ACHIEVEMENT: Successfully Deployed**
 
-#### 🤖 Agentic Frameworks & Bots
-*   **[Nexus: Multi-Agent Research](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** - Orchestration framework for complex research tasks.
-*   **[Nexus: Cross-Platform Concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** - AI assistant spanning multiple platforms.
+**EvalOps** is my flagship contribution to the MLOps landscape. It represents the culmination of my expertise in AI Engineering, focusing on the rigorous evaluation and operational readiness of LLM applications.
+
+*   **Focus:** LLM Evaluation & Observability
+*   **Status:** 🟢 Production Ready
+*   **Impact:** Ensuring reliability and performance in AI deployments.
+
+[![View EvalOps](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/Mohamedsalem-fn/evalops)
+
+---
+
+## 🌌 The AI Ecosystem
+
+Beyond EvalOps, I have architected a comprehensive suite of autonomous tools. Here is how my projects categorize into strategic domains:
+
+### 🤖 Autonomous Agents & Orchestration
+*Frameworks and bots that act independently to solve complex problems.*
+
+*   **[Nexus Multi-Agent Research Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** - Orchestration layer for complex research tasks.
+*   **[Nexus Cross-Platform Concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** - AI assistant spanning multiple platforms.
 *   **[OmniBot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** - Universal bot interface.
-*   **[MarketPulse](https://github.com/Mohamedsalem-fn/marketpulse-_competitive_intelligence_agent)** - Competitive intelligence agent.
+*   **[MarketPulse](https://github.com/Mohamedsalem-fn/marketpulse-_competitive_intelligence_agent)** - Automated competitive intelligence gathering.
 
-#### 🛠️ DevOps & Automation
-*   **[OpsBot](https://github.com/Mohamedsalem-fn/opsbot-_whatsapp_devops_orchestrator)** - WhatsApp-based DevOps orchestrator.
-*   **[Infrascribe](https://github.com/Mohamedsalem-fn/infrascribe)** - Infrastructure automation tooling.
+### 🛡️ Security & Red Teaming
+*Proactive defense and auditing for AI systems.*
 
-#### 📚 Knowledge & Media
-*   **[Documind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** - Enterprise RAG knowledge base.
-*   **[ContentCascade](https://github.com/Mohamedsalem-fn/contentcascade-_automated_media_repurposing_pipeline)** - Automated media repurposing pipeline.
+*   **[PromptGuard](https://github.com/Mohamedsalem-fn/promptguard-_adversarial_red_teaming_suite)** - Adversarial red teaming suite for prompt injection defense.
+*   **[CodeSentry](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)** - Autonomous security auditor for codebases.
+*   **[SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)** - Operational security monitoring.
+
+### 🛠️ DevOps & Code Automation
+*Tools that bridge the gap between Development and Operations.*
+
+*   **[OpsBot](https://github.com/Mohamedsalem-fn/opsbot-_whatsapp_devops_orchestrator)** - DevOps orchestration via WhatsApp.
+*   **[CodeMorph](https://github.com/Mohamedsalem-fn/codemorph-_autonomous_refactoring_agent)** - Autonomous agent for code refactoring.
+*   **[Infrascribe](https://github.com/Mohamedsalem-fn/infrascribe)** - Infrastructure automation and scripting.
+
+### 🧠 Knowledge & Prompt Engineering
+*Optimizing how LLMs understand and retrieve information.*
+
+*   **[Documind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** - Enterprise-grade RAG knowledge base.
 *   **[PromptForge](https://github.com/Mohamedsalem-fn/promptforge)** - Advanced prompt engineering toolkit.
 
 ---
 
+## 📩 Let's Collaborate
+
+I am currently open to discussing high-impact AI projects and architectural consulting.
+
+**Get in touch:**
+📧 **mohamedsalem.fn@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/elqary/)**
+
 <div align="center">
-**⚡ Let's build the future of Autonomous Intelligence together.**
+*Built with Intelligence. Automated with Precision.*
 </div>
