@@ -2,10 +2,9 @@
 
 ### 👋 Hi, I'm Mohamed Salem
 
-# 🚀 Building the Autonomous Future
+# 🤖 Expert AI Engineer & Automation Architect
 
-**Expert AI Engineer & Automation Architect**
-*Bridging the gap between Traditional Software Engineering and Agentic AI Systems*
+*Bridging the gap between robust Software Engineering and cutting-edge Agentic AI.*
 
 [![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
@@ -15,101 +14,92 @@
 
 ---
 
-## 🎯 Who I Am
+## 🧠 Professional Identity
 
-I am a software engineer turned AI architect with **4+ years of development experience** and a specialized focus on **AI Engineering**. With a background from the **Faculty of Computers and Informatics at Zagazig University**, I don't just run models—I engineer robust, autonomous systems that scale.
+I am a software craftsman turned AI architect. With **4+ years of traditional development experience** and **1 year of specialized AI engineering**, I possess a unique perspective on building LLM-powered applications that are not just smart, but scalable, secure, and maintainable.
 
-My philosophy is simple: **Code is labor, AI is leverage.** I build the systems that automate the labor.
+My focus lies in **Agentic Systems**, **Automation**, and **MLOps**, transforming static codebases into dynamic, autonomous ecosystems.
+
+**🎓 Education:** Faculty of Computers and Informatics, Zagazig University.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Mohamed Salem's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&langs_count=7&theme=dracula" alt="Top Languages"/>
 </div>
 
 ---
 
-## 🏆 Current Focus: SpecGen
+## ⚡ Core Skill Stack
 
-### 🛠️ SpecGen: Autonomous API Architect
-**Status: 🚀 JUST DEPLOYED**
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![Automation](https://img.shields.io/badge/Automation-Architect-green?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![LLMs](https://img.shields.io/badge/LLMs-RAG-purple?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Multi_Agent-orange?style=flat-square)](https://github.com/Mohamedsalem-fn)
+[![MLOps](https://img.shields.io/badge/MLOps-DevOps-red?style=flat-square)](https://github.com/Mohamedsalem-fn)
 
-My flagship project and current primary focus. SpecGen represents the pinnacle of autonomous engineering—a system capable of designing, documenting, and implementing API architectures without human intervention.
-
-*   **The Vision:** To eliminate the boilerplate of backend development.
-*   **The Tech:** Advanced LLM orchestration, AST parsing, and automated code generation.
-
-**[🔗 View SpecGen Repository](https://github.com/Mohamedsalem-fn/specgen-_autonomous_api_architect)**
-
----
-
-## ⚡ The AI Ecosystem
-
-Beyond SpecGen, I have built a comprehensive suite of tools covering the entire AI lifecycle—from security auditing to DevOps orchestration.
-
-### 🤖 Agentic Systems & Orchestration
-*Frameworks and multi-agent systems designed for complex reasoning and task execution.*
-
-*   **[Nexus: Multi-Agent Research Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** - Orchestrating complex research tasks across distributed agents.
-*   **[Nexus: Cross-Platform Concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** - An AI assistant that lives where you work.
-*   **[OmniBot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** - Universal bot integration layer.
-*   **[MarketPulse](https://github.com/Mohamedsalem-fn/marketpulse-_competitive_intelligence_agent)** - Autonomous competitive intelligence gathering.
-
-### 🛡️ Code Security & Quality
-*Autonomous agents that protect and refactor your codebase.*
-
-*   **[CodeSentry](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)** - 24/7 Autonomous security auditing.
-*   **[CodeMorph](https://github.com/Mohamedsalem-fn/codemorph-_autonomous_refactoring_agent)** - Self-healing code refactoring engine.
-*   **[PromptGuard](https://github.com/Mohamedsalem-fn/promptguard-_adversarial_red_teaming_suite)** - Red-teaming suite for LLM vulnerability assessment.
-*   **[LegacyLift](https://github.com/Mohamedsalem-fn/legacylift)** - Automated modernization of legacy systems.
-
-### 🧠 Knowledge & RAG
-*Enterprise-grade knowledge retrieval and generation.*
-
-*   **[DocuMind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** - Enterprise RAG system for intelligent document processing.
-
-### ⚙️ MLOps & DevOps
-*Infrastructure and operations automation.*
-
-*   **[OpsBot](https://github.com/Mohamedsalem-fn/opsbot-_whatsapp_devops_orchestrator)** - Managing DevOps workflows directly via WhatsApp.
-*   **[SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)** - Real-time operational monitoring.
-*   **[EvalOps](https://github.com/Mohamedsalem-fn/evalops)** - Automated model evaluation pipelines.
-*   **[InfraScribe](https://github.com/Mohamedsalem-fn/infrascribe)** - Infrastructure as Code generation.
-
-### 🔧 Core AI Tooling
-*Low-level utilities for the AI engineer.*
-
-*   **[ModelRouter](https://github.com/Mohamedsalem-fn/modelrouter)** - Intelligent routing of queries to optimal models.
-*   **[PromptForge](https://github.com/Mohamedsalem-fn/promptforge)** - Advanced prompt engineering and management.
+| Domain | Technologies & Concepts |
+| :--- | :--- |
+| **AI Engineering** | LLMs, RAG (Retrieval-Augmented Generation), Fine-tuning, Prompt Engineering |
+| **Agentic Systems** | Autonomous Agents, Multi-Agent Orchestration, Tool Use & Function Calling |
+| **Automation** | Workflow Automation, Autonomous Refactoring, CI/CD AI Integration |
+| **MLOps & DevOps** | Model Deployment, Evaluation Ops (EvalOps), Infrastructure as Code |
+| **Security** | Adversarial Red Teaming, AI Security Auditing, Prompt Guarding |
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🚀 Latest Deployment: Synthetix
+
+> **Status: ✅ LIVE**
+
+**Synthetix** represents the pinnacle of my current work in generative AI and autonomous systems. It is a fully deployed solution designed to push the boundaries of what AI agents can achieve in production environments.
+
+[![View Project](https://img.shields.io/badge/Github-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/Mohamedsalem-fn/synthetix)
+
+---
+
+## 🌐 The AI Ecosystem
+
+Beyond Synthetix, I maintain a robust portfolio of open-source tools and frameworks. My work focuses on creating autonomous agents that handle everything from security auditing to competitive intelligence.
+
+### 🤖 Agentic Workflows & Automation
+*   **[CodeMorph](https://github.com/Mohamedsalem-fn/codemorph-_autonomous_refactoring_agent)** - Autonomous Refactoring Agent: Self-healing code architecture.
+*   **[CodeSentry](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)** - Autonomous Security Auditor: 24/7 AI-powered code surveillance.
+*   **[OpsBot](https://github.com/Mohamedsalem-fn/opsbot-_whatsapp_devops_orchestrator)** - WhatsApp DevOps Orchestrator: Managing infrastructure via chat.
+*   **[Nexus Concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** - Cross-platform AI assistant for personal and business tasks.
+*   **[Nexus Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** - Multi-Agent Research Orchestration: Complex task decomposition.
+*   **[MarketPulse](https://github.com/Mohamedsalem-fn/marketpulse-_competitive_intelligence_agent)** - Competitive Intelligence Agent: AI-driven market analysis.
+*   **[SpecGen](https://github.com/Mohamedsalem-fn/specgen-_autonomous_api_architect)** - Autonomous API Architect: Generating specs from natural language.
+*   **[Omnibot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** - Next-generation multi-purpose automation nexus.
+
+### 🛡️ Security & Red Teaming
+*   **[PromptGuard](https://github.com/Mohamedsalem-fn/promptguard-_adversarial_red_teaming_suite)** - Adversarial Red Teaming Suite: Stress-testing LLM safety protocols.
+
+### 🏢 Enterprise Knowledge & RAG
+*   **[Documind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** - Enterprise RAG Knowledge Base: Intelligent document retrieval systems.
+
+### ⚙️ MLOps, Infrastructure & Tooling
+*   **[EvalOps](https://github.com/Mohamedsalem-fn/evalops)** - Comprehensive evaluation pipelines for LLM performance.
+*   **[SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)** - Monitoring and operational health for AI systems.
+*   **[Infrascribe](https://github.com/Mohamedsalem-fn/infrascribe)** - Infrastructure automation and documentation generation.
+*   **[LegacyLift](https://github.com/Mohamedsalem-fn/legacylift)** - Modernizing legacy systems using AI.
+*   **[ModelRouter](https://github.com/Mohamedsalem-fn/modelrouter)** - Intelligent routing for multi-model deployments.
+*   **[PromptForge](https://github.com/Mohamedsalem-fn/promptforge)** - Advanced prompt engineering toolkit.
+
+---
+
+## 📩 Let's Collaborate
+
+I am always open to discussing complex AI architectures, automation pipelines, and enterprise integration.
+
+**📧 mohamedsalem.fn@gmail.com**
+**📱 +20 110 778 4321**
 
 <div align="center">
 
-**AI Engineering**
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue?style=flat)
-![LLMs](https://img.shields.io/badge/LLMs-GPT4--Claude--Llama-black?style=flat)
-![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-LangChain--AutoGen-blue?style=flat)
+**[⬆ Back to Top](#-hi-im-mohamed-salem)**
 
-**Automation & Ops**
-![Automation](https://img.shields.io/badge/Automation-Architect-green?style=flat)
-![MLOps](https://img.shields.io/badge/MLOps-Docker--K8s-orange?style=flat)
-
-</div>
-
----
-
-## 🤝 Let's Collaborate
-
-I am always open to discussing complex AI architectures, automation challenges, and enterprise integration.
-
-**📩 Reach me directly:** [mohamedsalem.fn@gmail.com](mailto:mohamedsalem.fn@gmail.com)
-
-<div align="center">
-*Built with precision. Automated with intelligence.*
 </div>
