@@ -1,137 +1,141 @@
 <div align="center">
 
-# Mohamed Salem
-### Architecting the Future of Autonomous Intelligence
+# 👋 Hi, I'm Mohamed Salem
+### 🚀 Expert AI Engineer & Automation Architect
+*Architecting the future of Agentic Systems, LLMs, and Autonomous Intelligence*
 
-**Expert AI Engineer & Automation Architect | 4+ Years Dev Experience | Building Agentic Systems & LLM Solutions**
-
-[![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mohamedsalem.fn@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201107784321)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elqary-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elqary/)
-
-</div>
-
----
-
-## 🎯 Professional Identity
-
-I am a software craftsman turned AI architect. With a foundation in robust software engineering and a specialized focus on **Agentic Systems** and **MLOps**, I design, build, and deploy autonomous AI solutions that bridge the gap between theoretical models and production-grade infrastructure.
-
-My philosophy is simple: **Don't just use AI—automate the engineering around it.**
-
-### 🎓 Education
-**Faculty of Computers and Informatics**
-Zagazig University
-
-### 💼 Experience
-*   **AI Engineering & Automation:** 1+ Year (Specialized in LLMs & Agentic Systems)
-*   **Software Engineering:** 4+ Years (Full-Stack Development & DevOps)
-
----
-
-## 🛠 The Core Stack
-
-<div align="center">
-
-**AI Engineering** | **Automation** | **LLMs** | **Agentic Systems** | **MLOps**
+[![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elqary-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 Professional Identity
+
+I bridge the gap between traditional software engineering and cutting-edge AI. With a foundation of **4+ years in Development** and a specialized focus on **AI Engineering**, I design, build, and deploy autonomous systems that think, adapt, and optimize.
+
+**My Core Philosophy:**
+> *AI isn't just about models; it's about building robust ecosystems where agents collaborate, data flows seamlessly, and operations run autonomously.*
+
+**Education:** Faculty of Computers and Informatics, Zagazig University.
+
+---
+
+## ⚡ Technical Arsenal
+
+[![AI Engineering](https://img.shields.io/badge/AI_Engineing-Expert-blue?style=flat&logo=openai)](https://github.com/Mohamedsalem-fn)
+[![Automation](https://img.shields.io/badge/Automation-Architect-green?style=flat&logo=python)](https://github.com/Mohamedsalem-fn)
+[![LLMs](https://img.shields.io/badge/LLMs-Specialist-purple?style=flat&logo=huggingface)](https://github.com/Mohamedsalem-fn)
+[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Orchestrator-orange?style=flat&logo=robot)](https://github.com/Mohamedsalem-fn)
+[![MLOps](https://img.shields.io/badge/MLOps-DevOps-red?style=flat&logo=kubernetes)](https://github.com/Mohamedsalem-fn)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mohamedsalem-fn's github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
-## 🌟 Featured Deployment: PromptOptima
+## 🏆 Featured Deployment: PolicyForge
 
-### 🚀 [PromptOptima: Automated Prompt Engineering Studio](https://github.com/Mohamedsalem-fn/promptoptima-_automated_prompt_engineering_studio)
-> *The latest evolution in LLM optimization.*
+> **Status:** 🟢 **Successfully Deployed**
 
-**Status:** ✅ Successfully Deployed
+My latest flagship project. `PolicyForge` represents the pinnacle of automated policy generation and management, leveraging advanced LLMs to interpret, draft, and enforce compliance standards dynamically.
 
-PromptOptima represents the cutting edge of prompt engineering automation. It is a comprehensive studio designed to refine, test, and deploy prompts at scale, ensuring maximum efficiency and accuracy for LLM applications.
+**[🔗 View PolicyForge](https://github.com/Mohamedsalem-fn/policyforge)**
+
+---
+
+## 🌌 The Autonomous Ecosystem
+
+Beyond the flagship, I maintain a massive portfolio of specialized AI agents and tools. I categorize these into functional suites to demonstrate full-stack capability across the AI lifecycle.
+
+### 🛡️ Security, Compliance & Red Teaming
+*Automated defense, risk analysis, and adversarial testing.*
+| Project | Focus |
+| :--- | :--- |
+| **[LexiGuard](https://github.com/Mohamedsalem-fn/lexiguard-_intelligent_contract_risk_analyzer)** | Intelligent Contract Risk Analyzer |
+| **[PromptGuard](https://github.com/Mohamedsalem-fn/promptguard-_adversarial_red_teaming_suite)** | Adversarial Red Teaming Suite |
+| **[ComplianceGuard](https://github.com/Mohamedsalem-fn/complianceguard)** | Regulatory Compliance Automation |
+| **[CodeSentry](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)** | Autonomous Security Auditor |
+| **[ContractHunter](https://github.com/Mohamedsalem-fn/contracthunter-_ai_driven_api_contract_compliance_-_fuzzing_agent)** | API Contract Compliance & Fuzzing |
+| **[TierZero](https://github.com/Mohamedsalem-fn/tierzero-_autonomous_customer_support_triage_-_resolution_agent)** | Support Triage & Resolution |
+| **[Visionary](https://github.com/Mohamedsalem-fn/visionary-_multi_modal_brand_sentinel)** | Multi-Modal Brand Sentinel |
+
+### 🤖 Agentic Orchestration & Research
+*Multi-agent systems designed for complex reasoning and knowledge synthesis.*
+| Project | Focus |
+| :--- | :--- |
+| **[Nexus](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** | Cross-Platform AI Concierge |
+| **[Nexus Framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** | Research Orchestration Framework |
+| **[Orbit](https://github.com/Mohamedsalem-fn/orbit-_multi_orbital_research_agent)** | Multi-Orbital Research Agent |
+| **[Synapse](https://github.com/Mohamedsalem-fn/synapse-_autonomous_code_evolution_agent)** | Autonomous Code Evolution |
+| **[Negotech](https://github.com/Mohamedsalem-fn/negotech-_autonomous_multi_agent_negotiation_simulator)** | Multi-Agent Negotiation Simulator |
+| **[CogniGraph](https://github.com/Mohamedsalem-fn/cognigraph-_autonomous_research_knowledge_graph)** | Research Knowledge Graphs |
+| **[OmniBot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** | Advanced Bot Orchestration |
+| **[ScholarFlow](https://github.com/Mohamedsalem-fn/scholarflow-_adaptive_curriculum_architect)** | Adaptive Curriculum Architect |
+
+### 🛠️ DevOps, CI/CD & Infrastructure
+*Self-healing systems and autonomous infrastructure management.*
+| Project | Focus |
+| :--- | :--- |
+| **[FluxGuard](https://github.com/Mohamedsalem-fn/fluxguard-_autonomous_ci-cd_log_healer)** | Autonomous CI/CD Log Healer |
+| **[PipelineGen](https://github.com/Mohamedsalem-fn/pipelinegen-_autonomous_ci-cd_constructor)** | Autonomous CI/CD Constructor |
+| **[InfraGenie](https://github.com/Mohamedsalem-fn/infragenie-_conversational_cloud_architect)** | Conversational Cloud Architect |
+| **[OpsBot](https://github.com/Mohamedsalem-fn/opsbot-_whatsapp_devops_orchestrator)** | WhatsApp DevOps Orchestrator |
+| **[SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)** | Operational Monitoring |
+| **[VisionaryOps](https://github.com/Mohamedsalem-fn/visionaryops)** | Visionary Operations |
+| **[CloudOptima](https://github.com/Mohamedsalem-fn/cloudoptima)** | Cloud Optimization |
+| **[InfraScribe](https://github.com/Mohamedsalem-fn/infrascribe)** | Infrastructure Documentation |
+
+### 💾 Data, Knowledge & RAG
+*Advanced data cleaning, enrichment, and retrieval systems.*
+| Project | Focus |
+| :--- | :--- |
+| **[Documind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** | Enterprise RAG Knowledge Base |
+| **[DataJanitor](https://github.com/Mohamedsalem-fn/datajanitor-_autonomous_data_cleaning_-_enrichment_pipeline)** | Autonomous Data Cleaning & Enrichment |
+| **[QueryMind](https://github.com/Mohamedsalem-fn/querymind-_natural_language_to_sql_architect)** | Natural Language to SQL Architect |
+| **[SignalStream](https://github.com/Mohamedsalem-fn/signalstream)** | Data Streaming & Processing |
+| **[Synthetix](https://github.com/Mohamedsalem-fn/synthetix)** | Synthetic Data Generation |
+
+### 📈 Business Automation & Content
+*Agents that drive revenue, marketing, and customer support.*
+| Project | Focus |
+| :--- | :--- |
+| **[ProspectAI](https://github.com/Mohamedsalem-fn/prospectai-_autonomous_b2b_lead_generation_-_outreach_system)** | B2B Lead Gen & Outreach |
+| **[OmniCreate](https://github.com/Mohamedsalem-fn/omnicreate-_autonomous_multi_modal_campaign_engine)** | Multi-Modal Campaign Engine |
+| **[Resolutio](https://github.com/Mohamedsalem-fn/resolutio-_autonomous_customer_support_orchestrator)** | Customer Support Orchestrator |
+| **[ContentMatrix](https://github.com/Mohamedsalem-fn/contentmatrix-_automated_seo_content_factory)** | Automated SEO Content Factory |
+| **[MarketPulse](https://github.com/Mohamedsalem-fn/marketpulse-_competitive_intelligence_agent)** | Competitive Intelligence |
+| **[Repointel](https://github.com/Mohamedsalem-fn/repointel-_open_source_opportunity_hunter)** | Open Source Opportunity Hunter |
+| **[TalentSynth](https://github.com/Mohamedsalem-fn/talentsynth)** | Talent Synthesis & Management |
+
+### 🔧 Core Engineering & Tooling
+*The building blocks for the AI ecosystem.*
+| Project | Focus |
+| :--- | :--- |
+| **[CodeMorph](https://github.com/Mohamedsalem-fn/codemorph-_autonomous_refactoring_agent)** | Autonomous Refactoring |
+| **[PromptForge](https://github.com/Mohamedsalem-fn/promptforge)** | Prompt Engineering Studio |
+| **[ModelRouter](https://github.com/Mohamedsalem-fn/modelrouter)** | Intelligent Model Routing |
+| **[SpecGen](https://github.com/Mohamedsalem-fn/specgen-_autonomous_api_architect)** | Autonomous API Architect |
+| **[PromptOptima](https://github.com/Mohamedsalem-fn/promptoptima-_automated_prompt_engineering_studio)** | Automated Prompt Engineering |
+| **[LinguaFlow](https://github.com/Mohamedsalem-fn/linguaflow)** | Language Processing Workflows |
+| **[LegacyLift](https://github.com/Mohamedsalem-fn/legacylift)** | Legacy Code Modernization |
+| **[EvalOps](https://github.com/Mohamedsalem-fn/evalops)** | Model Evaluation Operations |
+| **[Vocalize](https://github.com/Mohamedsalem-fn/vocalize)** | Voice & Audio Processing |
 
 ---
 
-## 🤖 The Autonomous AI Ecosystem
+## 🤝 Let's Collaborate
 
-I specialize in building "Autonomous" agents—systems that perceive, reason, and act. Below is a curated selection of my public repositories, categorized by domain.
+I am always open to discussing complex AI architectures, enterprise automation, and Agentic System design.
 
-### 🧠 Agentic Orchestration & Research
-*Frameworks and multi-agent systems designed for complex reasoning and task execution.*
-
-*   **[Nexus](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)** - Multi-agent research orchestration framework.
-*   **[Orbit](https://github.com/Mohamedsalem-fn/orbit-_multi_orbital_research_agent)** - Multi-orbital research agent for deep data exploration.
-*   **[Synapse](https://github.com/Mohamedsalem-fn/synapse-_autonomous_code_evolution_agent)** - Autonomous agent for code evolution and refactoring.
-*   **[Negotech](https://github.com/Mohamedsalem-fn/negotech-_autonomous_multi_agent_negotiation_simulator)** - Simulator for autonomous multi-agent negotiation scenarios.
-*   **[OmniBot Nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)** - Cross-platform AI concierge.
-*   **[Nexus Concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)** - Cross-platform AI concierge system.
-
-### 🛡️ Security, Compliance & Auditing
-*Autonomous guardians for code integrity and risk analysis.*
-
-*   **[CodeSentry](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)** - Autonomous security auditor for codebases.
-*   **[LexiGuard](https://github.com/Mohamedsalem-fn/lexiguard-_intelligent_contract_risk_analyzer)** - Intelligent contract risk analyzer.
-*   **[ComplianceGuard](https://github.com/Mohamedsalem-fn/complianceguard)** - Automated compliance monitoring.
-*   **[PromptGuard](https://github.com/Mohamedsalem-fn/promptguard-_adversarial_red_teaming_suite)** - Adversarial red-teaming suite for LLM security.
-*   **[ContractHunter](https://github.com/Mohamedsalem-fn/contracthunter-_ai_driven_api_contract_compliance_-_fuzzing_agent)** - AI-driven API contract compliance & fuzzing agent.
-*   **[SentinelOps](https://github.com/Mohamedsalem-fn/sentinelops)** - Operational security monitoring.
-
-### 📊 Data Engineering & RAG
-*Pipelines for cleaning, enriching, and querying knowledge.*
-
-*   **[CogniGraph](https://github.com/Mohamedsalem-fn/cognigraph-_autonomous_research_knowledge_graph)** - Autonomous research knowledge graph construction.
-*   **[DocuMind](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)** - Enterprise RAG knowledge base.
-*   **[DataJanitor](https://github.com/Mohamedsalem-fn/datajanitor-_autonomous_data_cleaning_-_enrichment_pipeline)** - Autonomous data cleaning & enrichment pipeline.
-*   **[QueryMind](https://github.com/Mohamedsalem-fn/querymind-_natural_language_to_sql_architect)** - Natural language to SQL architect.
-
-### 🏗️ DevOps, Cloud & Infrastructure
-*Automating the infrastructure that powers AI.*
-
-*   **[InfraGenie](https://github.com/Mohamedsalem-fn/infragenie-_conversational_cloud_architect)** - Conversational cloud architect assistant.
-*   **[OpsBot](https://github.com/Mohamedsalem-fn/opsbot-_whatsapp_devops_orchestrator)** - WhatsApp DevOps orchestrator.
-*   **[PipelineGen](https://github.com/Mohamedsalem-fn/pipelinegen-_autonomous_ci-cd_constructor)** - Autonomous CI/CD constructor.
-*   **[CloudOptima](https://github.com/Mohamedsalem-fn/cloudoptima)** - Cloud resource optimization.
-*   **[Infrascribe](https://github.com/Mohamedsalem-fn/infrascribe)** - Infrastructure documentation and coding agent.
-
-### 🎨 Creative & Multimodal AI
-*Generative systems for content, vision, and voice.*
-
-*   **[OmniCreate](https://github.com/Mohamedsalem-fn/omnicreate-_autonomous_multi_modal_campaign_engine)** - Autonomous multi-modal campaign engine.
-*   **[Visionary](https://github.com/Mohamedsalem-fn/visionary-_multi_modal_brand_sentinel)** - Multi-modal brand sentinel.
-*   **[Vocalize](https://github.com/Mohamedsalem-fn/vocalize)** - AI-driven voice synthesis/solution.
-*   **[LinguaFlow](https://github.com/Mohamedsalem-fn/linguaflow)** - Language processing workflows.
-
-### ⚙️ Specialized Tools & Utilities
-*Targeted solutions for specific engineering challenges.*
-
-*   **[CodeMorph](https://github.com/Mohamedsalem-fn/codemorph-_autonomous_refactoring_agent)** - Autonomous refactoring agent.
-*   **[LegacyLift](https://github.com/Mohamedsalem-fn/legacylift)** - Modernizing legacy systems.
-*   **[ModelRouter](https://github.com/Mohamedsalem-fn/modelrouter)** - Intelligent model routing.
-*   **[PromptForge](https://github.com/Mohamedsalem-fn/promptforge)** - Advanced prompt crafting tools.
-*   **[SpecGen](https://github.com/Mohamedsalem-fn/specgen-_autonomous_api_architect)** - Autonomous API specification generator.
-*   **[Resolutio](https://github.com/Mohamedsalem-fn/resolutio-_autonomous_customer_support_orchestrator)** - Customer support orchestration.
-*   **[TierZero](https://github.com/Mohamedsalem-fn/tierzero-_autonomous_customer_support_triage_-_resolution_agent)** - Support triage & resolution.
-*   **[ScholarFlow](https://github.com/Mohamedsalem-fn/scholarflow-_adaptive_curriculum_architect)** - Adaptive curriculum generation.
-*   **[Repointel](https://github.com/Mohamedsalem-fn/repointel-_open_source_opportunity_hunter)** - Open source opportunity finder.
-*   **[EvalOps](https://github.com/Mohamedsalem-fn/evalops)** - Evaluation operations for AI models.
-*   **[VisionaryOps](https://github.com/Mohamedsalem-fn/visionaryops)** - Visual operations monitoring.
-*   **[Synthetix](https://github.com/Mohamedsalem-fn/synthetix)** - Synthetic data generation.
-*   **[TalentSynth](https://github.com/Mohamedsalem-fn/talentsynth)** - Talent matching/synthesis systems.
-*   **[MarketPulse](https://github.com/Mohamedsalem-fn/marketpulse-_competitive_intelligence_agent)** - Competitive intelligence agent.
-
----
+**📩 Reach me directly:** [mohamedsalem.fn@gmail.com](mailto:mohamedsalem.fn@gmail.com)
 
 <div align="center">
-
-**📩 Let's Build the Future Together**
-
-[Contact Me](mailto:mohamedsalem.fn@gmail.com) | [LinkedIn](https://www.linkedin.com/in/elqary/) | [WhatsApp](https://wa.me/201107784321)
-
+**[⬆ Back to Top](#)**
 </div>
