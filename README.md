@@ -1,278 +1,126 @@
-# 🚀 Mohamed Salem
-### **Architecting the Autonomous Future | AI Engineer & Automation Specialist**
+<div align="center">
 
-> *"Bridging the gap between human intent and autonomous execution."*
+  <!-- Profile Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Mohamed+Salem;AI+Engineer+%26+Automation+Architect;Building+the+Autonomous+Future" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elqary-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
+  <p>
+    <a href="mailto:mohamedsalem.fn@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://wa.me/201107784321"><img src="https://img.shields.io/badge/WhatsApp-+201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+    <a href="https://www.linkedin.com/in/elqary/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
+
+</div>
 
 ---
 
-## 🧠 The Professional Identity
+## 🧙‍♂️ Who I Am
 
-With a foundation of **4+ years in Software Development** and a specialized focus on **1 year of intensive AI Engineering**, I operate at the intersection of **Agentic Systems, LLMs, and MLOps**. I don't just write code; I design intelligent, self-healing ecosystems that automate the complex.
+I am an **Expert AI Engineer & Automation Architect** bridging the gap between traditional software engineering and the agentic future. With a foundation of 4+ years in Development and a specialized focus on AI Engineering, I design, build, and deploy intelligent systems that think, adapt, and execute.
+
+**My Philosophy:** Code shouldn't just run; it should reason. I specialize in transforming complex workflows into autonomous multi-agent ecosystems.
 
 **Education:** Faculty of Computers and Informatics, Zagazig University.
 
 ---
 
+## 🛠️ The Arsenal
+
+My core competencies lie at the intersection of **AI Engineering** and **DevOps Automation**.
+
+<div align="center">
+
+### 🧠 Core AI & Automation
+`AI Engineering` `LLMs` `Agentic Systems` `RAG` `Prompt Engineering` `Autonomous Architectures`
+
+### ⚙️ MLOps & Infrastructure
+`MLOps` `CI/CD` `Cloud Architecture` `Kubernetes` `Docker` `System Design`
+
+### 🛡️ Security & Compliance
+`Automated Auditing` `Supply Chain Security` `Contract Testing` `Vulnerability Management`
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elqary&show_icons=true&theme=tokyo_night)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elqary&layout=compact&theme=tokyo_night)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-## 🛡️ Core Competencies
+## 🚀 Featured Deployment: VersionVigilante
 
-![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blue)
-![Automation](https://img.shields.io/badge/Automation-Architect-green)
-![LLMs](https://img.shields.io/badge/LLMs-Specialist-purple)
-![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Advanced-orange)
-![MLOps](https://img.shields.io/badge/MLOps-Practitioner-red)
+> **The latest evolution in automated version management and compliance monitoring.**
 
----
+**VersionVigilante** is my flagship project, recently deployed to production. It represents the pinnacle of my engineering philosophy: autonomous systems that secure and optimize the software development lifecycle.
 
-## 🏆 Featured Deployment: ShadowHunter
+*   **Status:** ✅ Successfully Deployed
+*   **Focus:** Automated Compliance, Version Control, & Security Monitoring.
+*   **Tech:** LLM-driven analysis, Real-time monitoring, Automated remediation.
 
-### **🛡️ ShadowHunter: Autonomous Digital Footprint & Exposure Mapper**
-*Status: Successfully Deployed | The Flagship of OSINT Automation*
-
-ShadowHunter represents the pinnacle of autonomous reconnaissance. It is a self-sustaining agent that maps digital exposure, identifies vulnerabilities in real-time, and operates without human intervention.
-
-**Key Capabilities:**
-*   🔍 **Autonomous Footprinting:** Scans and maps digital shadows across the web.
-*   🚨 **Exposure Detection:** Identifies leaked credentials, PII, and security gaps.
-*   🤖 **Agent-Based Intelligence:** Uses multi-agent swarms to correlate data points.
+[![View Project](https://img.shields.io/badge/GitHub-View_Repo-black?style=for-the-badge&logo=github)](https://github.com/Mohamedsalem-fn/VersionVigilante)
 
 ---
 
-## 🌌 The Autonomous Ecosystem
+## 🌌 The AI Agent Ecosystem
 
-**I have architected over 150+ specialized agents and systems.** Below is the living taxonomy of my work, categorized by domain.
+Beyond my flagship work, I maintain a massive ecosystem of **140+ autonomous agents and tools**. These projects cover every layer of the modern tech stack, from cloud sustainability to automated sales.
 
-### 🔒 Cybersecurity & Compliance Agents
-*Automating defense, governance, and risk management.*
+### 🛡️ Security, Compliance & Governance Agents
+*Automated defense and regulatory adherence systems.*
 
-| Repository | Function |
-| :--- | :--- |
-| **[ShadowHunter](#)** | 🛡️ Autonomous Digital Footprint & Exposure Mapper |
-| **[PhishNet](#)** | 🎣 AI-Driven Security Awareness Simulation Platform |
-| **[VulnVector](#)** | 🦠 CVE to Code Impact Analyzer |
-| **[VaultGuard](#)** | 🔐 Automated Secret Remediation Agent |
-| **[Chainguardian](#)** | 🔗 Semantic Supply Chain Security |
-| **[SentinelOps](#)** | 📡 Autonomous Security Auditor |
-| **[Strider](#)** | 🛡️ Automated Threat Modeling Architect |
-| **[LexiGuard](#)** | ⚖️ Intelligent Contract Risk Analyzer |
-| **[PrivacyShield](#)** | 🕵️ Automated PII Detection & Compliance Auditor |
-| **[SemanticShield](#)** | 🛡️ Adversarial Defense Suite |
-| **[ComplianceGuard](#)** | 📜 Automated Compliance Evidence Architect |
-| **[ComplianceHorizon](#)** | 🔭 Regulatory Change Tracker |
-| **[LegisLens](#)** | ⚖️ Automated Regulatory Change Tracker |
-| **[TermSentry](#)** | 📄 Automated ToS & Policy Change Monitor |
-| **[BrandFortress](#)** | 🏰 Automated Digital Asset Protection System |
-| **[CodeSentry](#)** | 🛡️ Autonomous Security Auditor |
-| **[PatchPilot](#)** | 🩹 Autonomous Vulnerability Remediation Agent |
-| **[ResilienceRay](#)** | 🌊 Resilience Testing & Validation |
-| **[VisioGuard](#)** | 👁️ Autonomous Visual Regression Agent |
-| **[AuditTrail](#)** | 📜 Automated Compliance Evidence Architect |
-| **[CommunityGuard](#)** | 🛡️ Omni-Channel Moderation Agent |
+<a href="https://github.com/Mohamedsalem-fn/chainguardian"><img src="https://img.shields.io/badge/chainguardian-blue?style=flat-square&logo=github" alt="chainguardian"></a> <a href="https://github.com/Mohamedsalem-fn/complianceguard"><img src="https://img.shields.io/badge/complianceguard-blue?style=flat-square&logo=github" alt="complianceguard"></a> <a href="https://github.com/Mohamedsalem-fn/compliancehorizon"><img src="https://img.shields.io/badge/compliancehorizon-blue?style=flat-square&logo=github" alt="compliancehorizon"></a> <a href="https://github.com/Mohamedsalem-fn/legislens"><img src="https://img.shields.io/badge/legislens-blue?style=flat-square&logo=github" alt="legislens"></a> <a href="https://github.com/Mohamedsalem-fn/lexiguard"><img src="https://img.shields.io/badge/lexiguard-blue?style=flat-square&logo=github" alt="lexiguard"></a> <a href="https://github.com/Mohamedsalem-fn/patchpilot"><img src="https://img.shields.io/badge/patchpilot-blue?style=flat-square&logo=github" alt="patchpilot"></a> <a href="https://github.com/Mohamedsalem-fn/phishnet"><img src="https://img.shields.io/badge/phishnet-blue?style=flat-square&logo=github" alt="phishnet"></a> <a href="https://github.com/Mohamedsalem-fn/privacyshield"><img src="https://img.shields.io/badge/privacyshield-blue?style=flat-square&logo=github" alt="privacyshield"></a> <a href="https://github.com/Mohamedsalem-fn/promptguard"><img src="https://img.shields.io/badge/promptguard-blue?style=flat-square&logo=github" alt="promptguard"></a> <a href="https://github.com/Mohamedsalem-fn/semanticshield"><img src="https://img.shields.io/badge/semanticshield-blue?style=flat-square&logo=github" alt="semanticshield"></a> <a href="https://github.com/Mohamedsalem-fn/sentinelops"><img src="https://img.shields.io/badge/sentinelops-blue?style=flat-square&logo=github" alt="sentinelops"></a> <a href="https://github.com/Mohamedsalem-fn/strider"><img src="https://img.shields.io/badge/strider-blue?style=flat-square&logo=github" alt="strider"></a> <a href="https://github.com/Mohamedsalem-fn/termsentry"><img src="https://img.shields.io/badge/termsentry-blue?style=flat-square&logo=github" alt="termsentry"></a> <a href="https://github.com/Mohamedsalem-fn/vaultguard"><img src="https://img.shields.io/badge/vaultguard-blue?style=flat-square&logo=github" alt="vaultguard"></a> <a href="https://github.com/Mohamedsalem-fn/veritas"><img src="https://img.shields.io/badge/veritas-blue?style=flat-square&logo=github" alt="veritas"></a> <a href="https://github.com/Mohamedsalem-fn/vulnvector"><img src="https://img.shields.io/badge/vulnvector-blue?style=flat-square&logo=github" alt="vulnvector"></a> <a href="https://github.com/Mohamedsalem-fn/shadowhunter"><img src="https://img.shields.io/badge/shadowhunter-blue?style=flat-square&logo=github" alt="shadowhunter"></a> <a href="https://github.com/Mohamedsalem-fn/codesentry"><img src="https://img.shields.io/badge/codesentry-blue?style=flat-square&logo=github" alt="codesentry"></a> <a href="https://github.com/Mohamedsalem-fn/audittrail"><img src="https://img.shields.io/badge/audittrail-blue?style=flat-square&logo=github" alt="audittrail"></a> <a href="https://github.com/Mohamedsalem-fn/contracthunter"><img src="https://img.shields.io/badge/contracthunter-blue?style=flat-square&logo=github" alt="contracthunter"></a> <a href="https://github.com/Mohamedsalem-fn/communityguard"><img src="https://img.shields.io/badge/communityguard-blue?style=flat-square&logo=github" alt="communityguard"></a>
 
----
+### ☁️ Cloud, DevOps & Infrastructure Orchestration
+*Self-healing cloud environments and IaC automation.*
 
-### ☁️ Cloud, DevOps & Infrastructure
-*Self-healing clouds and autonomous orchestration.*
+<a href="https://github.com/Mohamedsalem-fn/cloudoptima"><img src="https://img.shields.io/badge/cloudoptima-orange?style=flat-square&logo=github" alt="cloudoptima"></a> <a href="https://github.com/Mohamedsalem-fn/cloudsentry"><img src="https://img.shields.io/badge/cloudsentry-orange?style=flat-square&logo=github" alt="cloudsentry"></a> <a href="https://github.com/Mohamedsalem-fn/driftops"><img src="https://img.shields.io/badge/driftops-orange?style=flat-square&logo=github" alt="driftops"></a> <a href="https://github.com/Mohamedsalem-fn/drillops"><img src="https://img.shields.io/badge/drillops-orange?style=flat-square&logo=github" alt="drillops"></a> <a href="https://github.com/Mohamedsalem-fn/ecoscale"><img src="https://img.shields.io/badge/ecoscale-orange?style=flat-square&logo=github" alt="ecoscale"></a> <a href="https://github.com/Mohamedsalem-fn/frugalcloud"><img src="https://img.shields.io/badge/frugalcloud-orange?style=flat-square&logo=github" alt="frugalcloud"></a> <a href="https://github.com/Mohamedsalem-fn/governgrid"><img src="https://img.shields.io/badge/governgrid-orange?style=flat-square&logo=github" alt="governgrid"></a> <a href="https://github.com/Mohamedsalem-fn/infracanvas"><img src="https://img.shields.io/badge/infracanvas-orange?style=flat-square&logo=github" alt="infracanvas"></a> <a href="https://github.com/Mohamedsalem-fn/infragenie"><img src="https://img.shields.io/badge/infragenie-orange?style=flat-square&logo=github" alt="infragenie"></a> <a href="https://github.com/Mohamedsalem-fn/infrascribe"><img src="https://img.shields.io/badge/infrascribe-orange?style=flat-square&logo=github" alt="infrascribe"></a> <a href="https://github.com/Mohamedsalem-fn/kubepilot"><img src="https://img.shields.io/badge/kubepilot-orange?style=flat-square&logo=github" alt="kubepilot"></a> <a href="https://github.com/Mohamedsalem-fn/resilienceray"><img src="https://img.shields.io/badge/resilienceray-orange?style=flat-square&logo=github" alt="resilienceray"></a> <a href="https://github.com/Mohamedsalem-fn/sitepulse"><img src="https://img.shields.io/badge/sitepulse-orange?style=flat-square&logo=github" alt="sitepulse"></a> <a href="https://github.com/Mohamedsalem-fn/terrachat"><img src="https://img.shields.io/badge/terrachat-orange?style=flat-square&logo=github" alt="terrachat"></a> <a href="https://github.com/Mohamedsalem-fn/terraformtamer"><img src="https://img.shields.io/badge/terraformtamer-orange?style=flat-square&logo=github" alt="terraformtamer"></a> <a href="https://github.com/Mohamedsalem-fn/turbopipe"><img src="https://img.shields.io/badge/turbopipe-orange?style=flat-square&logo=github" alt="turbopipe"></a> <a href="https://github.com/Mohamedsalem-fn/carbonops"><img src="https://img.shields.io/badge/carbonops-orange?style=flat-square&logo=github" alt="carbonops"></a> <a href="https://github.com/Mohamedsalem-fn/incidentmind"><img src="https://img.shields.io/badge/incidentmind-orange?style=flat-square&logo=github" alt="incidentmind"></a> <a href="https://github.com/Mohamedsalem-fn/ledgerlink"><img src="https://img.shields.io/badge/ledgerlink-orange?style=flat-square&logo=github" alt="ledgerlink"></a> <a href="https://github.com/Mohamedsalem-fn/orbit"><img src="https://img.shields.io/badge/orbit-orange?style=flat-square&logo=github" alt="orbit"></a> <a href="https://github.com/Mohamedsalem-fn/resolutio"><img src="https://img.shields.io/badge/resolutio-orange?style=flat-square&logo=github" alt="resolutio"></a> <a href="https://github.com/Mohamedsalem-fn/syncops"><img src="https://img.shields.io/badge/syncops-orange?style=flat-square&logo=github" alt="syncops"></a> <a href="https://github.com/Mohamedsalem-fn/veritasflow"><img src="https://img.shields.io/badge/veritasflow-orange?style=flat-square&logo=github" alt="veritasflow"></a>
 
-| Repository | Function |
-| :--- | :--- |
-| **[CloudSentry](#)** | 💰 Autonomous Cost Optimization Engine |
-| **[TerraformTamer](#)** | 🏗️ Autonomous Cloud Resource Auditor |
-| **[KubePilot](#)** | ☸️ Autonomous Kubernetes Troubleshooter |
-| **[FluxGuard](#)** | 🚑 Autonomous CI-CD Log Healer |
-| **[Turbopipe](#)** | 🚀 CI-CD Performance Analyzer & Auto-Optimizer |
-| **[InfraGenie](#)** | 🧞 Conversational Cloud Architect |
-| **[InfraCanvas](#)** | 🎨 Visual IaC Editor & Generator |
-| **[Infrascribe](#)** | 📝 Infrastructure Documentation Generator |
-| **[CloudOptima](#)** | ☁️ Cloud Performance Tuning |
-| **[FrugalCloud](#)** | 💵 Cloud Sustainability & Cost Auditor |
-| **[EcoScale](#)** | 🌱 Autonomous Serverless Resource Tuner |
-| **[CarbonOps](#)** | 🌳 Cloud Sustainability - Emissions Auditor |
-| **[DriftOps](#)** | 🌊 Infrastructure Drift Detection & Auto-Remediation |
-| **[SitePulse](#)** | 💓 Intelligent Uptime & Root Cause Analyzer |
-| **[ReleaseGuard](#)** | 🚦 Intelligent Canary Traffic Analyst |
-| **[ReleaseCraft](#)** | 📦 Release Orchestration Engine |
-| **[ReleaseFlow](#)** | 🌊 Automated Release Pipeline Manager |
-| **[PipelineGen](#)** | 🏗️ Autonomous CI-CD Constructor |
-| **[OpsBot](#)** | 🤖 WhatsApp DevOps Orchestrator |
-| **[SyncOps](#)** | 🤝 Intelligent Engineering Stand-up Orchestrator |
-| **[GitGates](#)** | 🚪 Semantic Workflow Enforcement Agent |
-| **[GovernGrid](#)** | 🏛️ Autonomous Cloud Compliance & Governance Engine |
-| **[TerraChat](#)** | 💬 Conversational Cloud Resource Manager |
+### 🤖 CI/CD, Testing & Quality Assurance
+*Autonomous pipelines that ensure code quality and performance.*
+
+<a href="https://github.com/Mohamedsalem-fn/apisentinel"><img src="https://img.shields.io/badge/apisentinel-green?style=flat-square&logo=github" alt="apisentinel"></a> <a href="https://github.com/Mohamedsalem-fn/autospec"><img src="https://img.shields.io/badge/autospec-green?style=flat-square&logo=github" alt="autospec"></a> <a href="https://github.com/Mohamedsalem-fn/fluxguard"><img src="https://img.shields.io/badge/fluxguard-green?style=flat-square&logo=github" alt="fluxguard"></a> <a href="https://github.com/Mohamedsalem-fn/gitgates"><img src="https://img.shields.io/badge/gitgates-green?style=flat-square&logo=github" alt="gitgates"></a> <a href="https://github.com/Mohamedsalem-fn/mockgen"><img src="https://img.shields.io/badge/mockgen-green?style=flat-square&logo=github" alt="mockgen"></a> <a href="https://github.com/Mohamedsalem-fn/pipelinegen"><img src="https://img.shields.io/badge/pipelinegen-green?style=flat-square&logo=github" alt="pipelinegen"></a> <a href="https://github.com/Mohamedsalem-fn/releasecraft"><img src="https://img.shields.io/badge/releasecraft-green?style=flat-square&logo=github" alt="releasecraft"></a> <a href="https://github.com/Mohamedsalem-fn/releaseflow"><img src="https://img.shields.io/badge/releaseflow-green?style=flat-square&logo=github" alt="releaseflow"></a> <a href="https://github.com/Mohamedsalem-fn/releaseguard"><img src="https://img.shields.io/badge/releaseguard-green?style=flat-square&logo=github" alt="releaseguard"></a> <a href="https://github.com/Mohamedsalem-fn/testgenius"><img src="https://img.shields.io/badge/testgenius-green?style=flat-square&logo=github" alt="testgenius"></a> <a href="https://github.com/Mohamedsalem-fn/visioguard"><img src="https://img.shields.io/badge/visioguard-green?style=flat-square&logo=github" alt="visioguard"></a> <a href="https://github.com/Mohamedsalem-fn/schemadrift"><img src="https://img.shields.io/badge/schemadrift-green?style=flat-square&logo=github" alt="schemadrift"></a> <a href="https://github.com/Mohamedsalem-fn/retrospec"><img src="https://img.shields.io/badge/retrospec-green?style=flat-square&logo=github" alt="retrospec"></a> <a href="https://github.com/Mohamedsalem-fn/specgen"><img src="https://img.shields.io/badge/specgen-green?style=flat-square&logo=github" alt="specgen"></a>
+
+### 💻 Code Engineering & Intelligence
+*Agents that write, refactor, and visualize code.*
+
+<a href="https://github.com/Mohamedsalem-fn/architectflow"><img src="https://img.shields.io/badge/architectflow-yellow?style=flat-square&logo=github" alt="architectflow"></a> <a href="https://github.com/Mohamedsalem-fn/codemorph"><img src="https://img.shields.io/badge/codemorph-yellow?style=flat-square&logo=github" alt="codemorph"></a> <a href="https://github.com/Mohamedsalem-fn/codecartography"><img src="https://img.shields.io/badge/codecartography-yellow?style=flat-square&logo=github" alt="codecartography"></a> <a href="https://github.com/Mohamedsalem-fn/logiclens"><img src="https://img.shields.io/badge/logiclens-yellow?style=flat-square&logo=github" alt="logiclens"></a> <a href="https://github.com/Mohamedsalem-fn/repocleanse"><img src="https://img.shields.io/badge/repocleanse-yellow?style=flat-square&logo=github" alt="repocleanse"></a> <a href="https://github.com/Mohamedsalem-fn/shiftright"><img src="https://img.shields.io/badge/shiftright-yellow?style=flat-square&logo=github" alt="shiftright"></a> <a href="https://github.com/Mohamedsalem-fn/synapse"><img src="https://img.shields.io/badge/synapse-yellow?style=flat-square&logo=github" alt="synapse"></a> <a href="https://github.com/Mohamedsalem-fn/tickettamer"><img src="https://img.shields.io/badge/tickettamer-yellow?style=flat-square&logo=github" alt="tickettamer"></a> <a href="https://github.com/Mohamedsalem-fn/transmute"><img src="https://img.shields.io/badge/transmute-yellow?style=flat-square&logo=github" alt="transmute"></a> <a href="https://github.com/Mohamedsalem-fn/dependable"><img src="https://img.shields.io/badge/dependable-yellow?style=flat-square&logo=github" alt="dependable"></a> <a href="https://github.com/Mohamedsalem-fn/legacylift"><img src="https://img.shields.io/badge/legacylift-yellow?style=flat-square&logo=github" alt="legacylift"></a> <a href="https://github.com/Mohamedsalem-fn/linguaflow"><img src="https://img.shields.io/badge/linguaflow-yellow?style=flat-square&logo=github" alt="linguaflow"></a>
+
+### 🧠 Knowledge, Data & RAG Systems
+*Turning unstructured data into actionable intelligence.*
+
+<a href="https://github.com/Mohamedsalem-fn/cognigraph"><img src="https://img.shields.io/badge/cognigraph-purple?style=flat-square&logo=github" alt="cognigraph"></a> <a href="https://github.com/Mohamedsalem-fn/datajanitor"><img src="https://img.shields.io/badge/datajanitor-purple?style=flat-square&logo=github" alt="datajanitor"></a> <a href="https://github.com/Mohamedsalem-fn/deepdive"><img src="https://img.shields.io/badge/deepdive-purple?style=flat-square&logo=github" alt="deepdive"></a> <a href="https://github.com/Mohamedsalem-fn/documind"><img src="https://img.shields.io/badge/documind-purple?style=flat-square&logo=github" alt="documind"></a> <a href="https://github.com/Mohamedsalem-fn/docusync"><img src="https://img.shields.io/badge/docusync-purple?style=flat-square&logo=github" alt="docusync"></a> <a href="https://github.com/Mohamedsalem-fn/docuwatch"><img src="https://img.shields.io/badge/docuwatch-purple?style=flat-square&logo=github" alt="docuwatch"></a> <a href="https://github.com/Mohamedsalem-fn/querymind"><img src="https://img.shields.io/badge/querymind-purple?style=flat-square&logo=github" alt="querymind"></a> <a href="https://github.com/Mohamedsalem-fn/scrapemaster"><img src="https://img.shields.io/badge/scrapemaster-purple?style=flat-square&logo=github" alt="scrapemaster"></a> <a href="https://github.com/Mohamedsalem-fn/scribeflow"><img src="https://img.shields.io/badge/scribeflow-purple?style=flat-square&logo=github" alt="scribeflow"></a> <a href="https://github.com/Mohamedsalem-fn/tracemind"><img src="https://img.shields.io/badge/tracemind-purple?style=flat-square&logo=github" alt="tracemind"></a> <a href="https://github.com/Mohamedsalem-fn/loglens"><img src="https://img.shields.io/badge/loglens-purple?style=flat-square&logo=github" alt="loglens"></a>
+
+### 📈 Business Automation & Sales Agents
+*Autonomous engines for growth, outreach, and market analysis.*
+
+<a href="https://github.com/Mohamedsalem-fn/arbitragex"><img src="https://img.shields.io/badge/arbitragex-red?style=flat-square&logo=github" alt="arbitragex"></a> <a href="https://github.com/Mohamedsalem-fn/careercraft"><img src="https://img.shields.io/badge/careercraft-red?style=flat-square&logo=github" alt="careercraft"></a> <a href="https://github.com/Mohamedsalem-fn/earningswhisper"><img src="https://img.shields.io/badge/earningswhisper-red?style=flat-square&logo=github" alt="earningswhisper"></a> <a href="https://github.com/Mohamedsalem-fn/leadgenius"><img src="https://img.shields.io/badge/leadgenius-red?style=flat-square&logo=github" alt="leadgenius"></a> <a href="https://github.com/Mohamedsalem-fn/marketpulse"><img src="https://img.shields.io/badge/marketpulse-red?style=flat-square&logo=github" alt="marketpulse"></a> <a href="https://github.com/Mohamedsalem-fn/negotech"><img src="https://img.shields.io/badge/negotech-red?style=flat-square&logo=github" alt="negotech"></a> <a href="https://github.com/Mohamedsalem-fn/neurostrat"><img src="https://img.shields.io/badge/neurostrat-red?style=flat-square&logo=github" alt="neurostrat"></a> <a href="https://github.com/Mohamedsalem-fn/omnicreate"><img src="https://img.shields.io/badge/omnicreate-red?style=flat-square&logo=github" alt="omnicreate"></a> <a href="https://github.com/Mohamedsalem-fn/prospectai"><img src="https://img.shields.io/badge/prospectai-red?style=flat-square&logo=github" alt="prospectai"></a> <a href="https://github.com/Mohamedsalem-fn/propulz"><img src="https://img.shields.io/badge/propulz-red?style=flat-square&logo=github" alt="propulz"></a> <a href="https://github.com/Mohamedsalem-fn/recruitai"><img src="https://img.shields.io/badge/recruitai-red?style=flat-square&logo=github" alt="recruitai"></a> <a href="https://github.com/Mohamedsalem-fn/resumearchitect"><img src="https://img.shields.io/badge/resumearchitect-red?style=flat-square&logo=github" alt="resumearchitect"></a> <a href="https://github.com/Mohamedsalem-fn/serpsense"><img src="https://img.shields.io/badge/serpsense-red?style=flat-square&logo=github" alt="serpsense"></a> <a href="https://github.com/Mohamedsalem-fn/trendsurfer"><img src="https://img.shields.io/badge/trendsurfer-red?style=flat-square&logo=github" alt="trendsurfer"></a> <a href="https://github.com/Mohamedsalem-fn/voicesync"><img src="https://img.shields.io/badge/voicesync-red?style=flat-square&logo=github" alt="voicesync"></a> <a href="https://github.com/Mohamedsalem-fn/expenseeye"><img src="https://img.shields.io/badge/expenseeye-red?style=flat-square&logo=github" alt="expenseeye"></a> <a href="https://github.com/Mohamedsalem-fn/flowsmith"><img src="https://img.shields.io/badge/flowsmith-red?style=flat-square&logo=github" alt="flowsmith"></a> <a href="https://github.com/Mohamedsalem-fn/grantwise"><img src="https://img.shields.io/badge/grantwise-red?style=flat-square&logo=github" alt="grantwise"></a> <a href="https://github.com/Mohamedsalem-fn/outboundmind"><img src="https://img.shields.io/badge/outboundmind-red?style=flat-square&logo=github" alt="outboundmind"></a>
+
+### 🎨 Content, Media & Multi-Modal Systems
+*Generative AI for creative assets and brand monitoring.*
+
+<a href="https://github.com/Mohamedsalem-fn/a11yfix"><img src="https://img.shields.io/badge/a11yfix-pink?style=flat-square&logo=github" alt="a11yfix"></a> <a href="https://github.com/Mohamedsalem-fn/brandfortress"><img src="https://img.shields.io/badge/brandfortress-pink?style=flat-square&logo=github" alt="brandfortress"></a> <a href="https://github.com/Mohamedsalem-fn/chartgenie"><img src="https://img.shields.io/badge/chartgenie-pink?style=flat-square&logo=github" alt="chartgenie"></a> <a href="https://github.com/Mohamedsalem-fn/clipcraft"><img src="https://img.shields.io/badge/clipcraft-pink?style=flat-square&logo=github" alt="clipcraft"></a> <a href="https://github.com/Mohamedsalem-fn/contentmatrix"><img src="https://img.shields.io/badge/contentmatrix-pink?style=flat-square&logo=github" alt="contentmatrix"></a> <a href="https://github.com/Mohamedsalem-fn/echostream"><img src="https://img.shields.io/badge/echostream-pink?style=flat-square&logo=github" alt="echostream"></a> <a href="https://github.com/Mohamedsalem-fn/memora"><img src="https://img.shields.io/badge/memora-pink?style=flat-square&logo=github" alt="memora"></a> <a href="https://github.com/Mohamedsalem-fn/omnibot_nexus"><img src="https://img.shields.io/badge/omnibot_nexus-pink?style=flat-square&logo=github" alt="omnibot_nexus"></a> <a href="https://github.com/Mohamedsalem-fn/personaengine"><img src="https://img.shields.io/badge/personaengine-pink?style=flat-square&logo=github" alt="personaengine"></a> <a href="https://github.com/Mohamedsalem-fn/pixelforge"><img src="https://img.shields.io/badge/pixelforge-pink?style=flat-square&logo=github" alt="pixelforge"></a> <a href="https://github.com/Mohamedsalem-fn/visionary"><img src="https://img.shields.io/badge/visionary-pink?style=flat-square&logo=github" alt="visionary"></a> <a href="https://github.com/Mohamedsalem-fn/visionaryops"><img src="https://img.shields.io/badge/visionaryops-pink?style=flat-square&logo=github" alt="visionaryops"></a> <a href="https://github.com/Mohamedsalem-fn/vocalize"><img src="https://img.shields.io/badge/vocalize-pink?style=flat-square&logo=github" alt="vocalize"></a> <a href="https://github.com/Mohamedsalem-fn/chaoschat"><img src="https://img.shields.io/badge/chaoschat-pink?style=flat-square&logo=github" alt="chaoschat"></a>
+
+### 🔧 Developer Experience & Tooling
+*Enhancing the workflow of the engineers building the future.*
+
+<a href="https://github.com/Mohamedsalem-fn/bridgeai"><img src="https://img.shields.io/badge/bridgeai-grey?style=flat-square&logo=github" alt="bridgeai"></a> <a href="https://github.com/Mohamedsalem-fn/codechronicles"><img src="https://img.shields.io/badge/codechronicles-grey?style=flat-square&logo=github" alt="codechronicles"></a> <a href="https://github.com/Mohamedsalem-fn/devrelengine"><img src="https://img.shields.io/badge/devrelengine-grey?style=flat-square&logo=github" alt="devrelengine"></a> <a href="https://github.com/Mohamedsalem-fn/gitprompt"><img src="https://img.shields.io/badge/gitprompt-grey?style=flat-square&logo=github" alt="gitprompt"></a> <a href="https://github.com/Mohamedsalem-fn/intentflow"><img src="https://img.shields.io/badge/intentflow-grey?style=flat-square&logo=github" alt="intentflow"></a> <a href="https://github.com/Mohamedsalem-fn/mergemind"><img src="https://img.shields.io/badge/mergemind-grey?style=flat-square&logo=github" alt="mergemind"></a> <a href="https://github.com/Mohamedsalem-fn/modelrouter"><img src="https://img.shields.io/badge/modelrouter-grey?style=flat-square&logo=github" alt="modelrouter"></a> <a href="https://github.com/Mohamedsalem-fn/nexus"><img src="https://img.shields.io/badge/nexus-grey?style=flat-square&logo=github" alt="nexus"></a> <a href="https://github.com/Mohamedsalem-fn/opsbot"><img src="https://img.shields.io/badge/opsbot-grey?style=flat-square&logo=github" alt="opsbot"></a> <a href="https://github.com/Mohamedsalem-fn/pathfinder"><img src="https://img.shields.io/badge/pathfinder-grey?style=flat-square&logo=github" alt="pathfinder"></a> <a href="https://github.com/Mohamedsalem-fn/policyforge"><img src="https://img.shields.io/badge/policyforge-grey?style=flat-square&logo=github" alt="policyforge"></a> <a href="https://github.com/Mohamedsalem-fn/polyglot"><img src="https://img.shields.io/badge/polyglot-grey?style=flat-square&logo=github" alt="polyglot"></a> <a href="https://github.com/Mohamedsalem-fn/prism"><img src="https://img.shields.io/badge/prism-grey?style=flat-square&logo=github" alt="prism"></a> <a href="https://github.com/Mohamedsalem-fn/promptci"><img src="https://img.shields.io/badge/promptci-grey?style=flat-square&logo=github" alt="promptci"></a> <a href="https://github.com/Mohamedsalem-fn/promptforge"><img src="https://img.shields.io/badge/promptforge-grey?style=flat-square&logo=github" alt="promptforge"></a> <a href="https://github.com/Mohamedsalem-fn/promptoptima"><img src="https://img.shields.io/badge/promptoptima-grey?style=flat-square&logo=github" alt="promptoptima"></a> <a href="https://github.com/Mohamedsalem-fn/promptperf"><img src="https://img.shields.io/badge/promptperf-grey?style=flat-square&logo=github" alt="promptperf"></a> <a href="https://github.com/Mohamedsalem-fn/repointel"><img src="https://img.shields.io/badge/repointel-grey?style=flat-square&logo=github" alt="repointel"></a> <a href="https://github.com/Mohamedsalem-fn/reporanger"><img src="https://img.shields.io/badge/reporanger-grey?style=flat-square&logo=github" alt="reporanger"></a> <a href="https://github.com/Mohamedsalem-fn/reposcribe"><img src="https://img.shields.io/badge/reposcribe-grey?style=flat-square&logo=github" alt="reposcribe"></a> <a href="https://github.com/Mohamedsalem-fn/roleplayai"><img src="https://img.shields.io/badge/roleplayai-grey?style=flat-square&logo=github" alt="roleplayai"></a> <a href="https://github.com/Mohamedsalem-fn/sdkforge"><img src="https://img.shields.io/badge/sdkforge-grey?style=flat-square&logo=github" alt="sdkforge"></a> <a href="https://github.com/Mohamedsalem-fn/signalstream"><img src="https://img.shields.io/badge/signalstream-grey?style=flat-square&logo=github" alt="signalstream"></a> <a href="https://github.com/Mohamedsalem-fn/streamsense"><img src="https://img.shields.io/badge/streamsense-grey?style=flat-square&logo=github" alt="streamsense"></a> <a href="https://github.com/Mohamedsalem-fn/talentsynth"><img src="https://img.shields.io/badge/talentsynth-grey?style=flat-square&logo=github" alt="talentsynth"></a> <a href="https://github.com/Mohamedsalem-fn/tierzero"><img src="https://img.shields.io/badge/tierzero-grey?style=flat-square&logo=github" alt="tierzero"></a> <a href="https://github.com/Mohamedsalem-fn/tokensqueeze"><img src="https://img.shields.io/badge/tokensqueeze-grey?style=flat-square&logo=github" alt="tokensqueeze"></a> <a href="https://github.com/Mohamedsalem-fn/vendorvantage"><img src="https://img.shields.io/badge/vendorvantage-grey?style=flat-square&logo=github" alt="vendorvantage"></a> <a href="https://github.com/Mohamedsalem-fn/evalops"><img src="https://img.shields.io/badge/evalops-grey?style=flat-square&logo=github" alt="evalops"></a> <a href="https://github.com/Mohamedsalem-fn/scholarflow"><img src="https://img.shields.io/badge/scholarflow-grey?style=flat-square&logo=github" alt="scholarflow"></a> <a href="https://github.com/Mohamedsalem-fn/socratix"><img src="https://img.shields.io/badge/socratix-grey?style=flat-square&logo=github" alt="socratix"></a> <a href="https://github.com/Mohamedsalem-fn/synthetix"><img src="https://img.shields.io/badge/synthetix-grey?style=flat-square&logo=github" alt="synthetix"></a>
 
 ---
 
-### 🤖 LLMs, Agents & Prompt Engineering
-*The brain of the operation.*
+## 🤝 Let's Build the Future
 
-| Repository | Function |
-| :--- | :--- |
-| **[Nexus](#)** | 🔗 Multi-Agent Research Orchestration Framework |
-| **[OmniBot Nexus](#)** | 🤖 Cross-Platform AI Concierge |
-| **[PromptForge](#)** | 🔨 Advanced Prompt Engineering Studio |
-| **[PromptOptima](#)** | ⚡ Automated Prompt Engineering Studio |
-| **[PromptGuard](#)** | 🛡️ Adversarial Red Teaming Suite |
-| **[PromptPerf](#)** | 📊 Prompt Performance Analytics |
-| **[PromptCI](#)** | 🔄 Continuous Integration for Prompt Engineering |
-| **[Polyglot](#)** | 🗣️ Multi-Model Consensus Engine |
-| **[ModelRouter](#)** | 🚦 Intelligent Model Routing & Selection |
-| **[NeuroStrat](#)** | 🧠 Autonomous Quantitative Research Engine |
-| **[OmniCreate](#)** | 🎨 Autonomous Multi-Modal Campaign Engine |
-| **[PersonaEngine](#)** | 🎭 Dynamic Web Copy Personalizer |
-| **[RoleplayAI](#)** | 🎬 Sales & Support Training Simulator |
-| **[Socratix](#)** | 🎓 AI Tutor & Dialogue System |
-| **[ScholarFlow](#)** | 📚 Adaptive Curriculum Architect |
-| **[PathFinder](#)** | 🗺️ Dynamic Skill Gap Analysis & Curriculum Generator |
-| **[TalentSynth](#)** | 👥 Synthetic Talent Generation |
-| **[CareerCraft](#)** | 💼 Intelligent Resume Tailoring & ATS Engine |
-| **[ResumeArchitect](#)** | 📄 ATS Optimization Agent |
-| **[QueryMind](#)** | 🧠 Natural Language to SQL Architect |
+I am always open to discussing high-impact AI projects, automation architecture, and collaborations.
 
----
+<div align="center">
 
-### 📊 Data, Analytics & Intelligence
-*Turning noise into actionable signal.*
+**Get in touch:**
 
-| Repository | Function |
-| :--- | :--- |
-| **[DataJanitor](#)** | 🧹 Autonomous Data Cleaning & Enrichment Pipeline |
-| **[CogniGraph](#)** | 🕸️ Autonomous Research Knowledge Graph |
-| **[SignalStream](#)** | 📡 Real-Time Market Intelligence Aggregator |
-| **[MarketPulse](#)** | 📈 Competitive Intelligence Agent |
-| **[EarningsWhisper](#)** | 📢 Financial Earnings Analyzer |
-| **[TrendSurfer](#)** | 🌊 Real-Time Niche Trend Hunter |
-| **[DeepDive](#)** | 🏊 Deep Data Analysis Engine |
-| **[TraceMind](#)** | 🔍 Semantic Distributed Tracing Analyzer |
-| **[LogLens](#)** | 🪞 Autonomous Log Anomaly Detection & Forensics |
-| **[Documind](#)** | 🧠 Enterprise RAG Knowledge Base |
-| **[ChartGenie](#)** | 📊 Automated Data Visualization |
-| **[Streamsense](#)** | 📡 Stream Data Processing |
-| **[Prism](#)** | 💎 Multi-Source Intelligence Aggregator |
-| **[EchoStream](#)** | 🎧 Real-Time Social Audio Intelligence |
-| **[ScrapeMaster](#)** | 🕸️ Hierarchical Multi-Agent Scraper |
+[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/elqary/)
+[<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:mohamedsalem.fn@gmail.com)
+[<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">](https://wa.me/201107784321)
 
----
-
-### 💼 Business, CRM & Outreach
-*Autonomous growth engines.*
-
-| Repository | Function |
-| :--- | :--- |
-| **[ProspectAI](#)** | 🎯 Autonomous B2B Lead Generation & Outreach |
-| **[RecruitAI](#)** | 👤 Autonomous Talent Sourcing & Outreach Agent |
-| **[ExpenseEye](#)** | 💸 WhatsApp First Receipt & Invoice Processor |
-| **[Voicesync](#)** | 📞 WhatsApp to CRM Structured Extractor |
-| **[LeadGenius](#)** | 🧠 Intelligent Lead Scoring |
-| **[OutboundMind](#)** | 📤 Automated Outreach Strategy |
-| **[Propulz](#)** | 🚀 Autonomous Freelance Proposal Generator |
-| **[GrantWise](#)** | 🏆 Autonomous Grant Discovery & Proposal Architect |
-| **[Veritas](#)** | ⚖️ Real-Time Claim Verification Engine |
-| **[VeritasFlow](#)** | 🌊 Claims Processing Automation |
-| **[Resolutio](#)** | 🤝 Autonomous Customer Support Orchestrator |
-| **[TierZero](#)** | 🚨 Autonomous Customer Support Triage & Resolution |
-| **[TicketTamer](#)** | 🎫 Autonomous Issue Refinement Agent |
-| **[SerpSense](#)** | 🔍 Autonomous SEO Strategy & Gap Analyst |
-
----
-
-### 🛠️ Developer Tools & Testing
-*Meta-automation: Building tools for builders.*
-
-| Repository | Function |
-| :--- | :--- |
-| **[AutoSpec](#)** | 📝 Autonomous Test Suite Generator |
-| **[TestGenius](#)** | 🧠 Autonomous Unit Test Generator |
-| **[ApiSentinel](#)** | 🛡️ Contract-First Integration Testing Agent |
-| **[MockGen](#)** | 🎭 Dynamic API Mocking & Contract Testing |
-| **[SpecGen](#)** | 🏗️ Autonomous API Architect |
-| **[CodeMorph](#)** | 🦋 Autonomous Refactoring Agent |
-| **[CodeCartography](#)** | 🗺️ Autonomous Architecture Visualizer |
-| **[LogicLens](#)** | 🔍 Semantic Code Review & Risk Analyzer |
-| **[RetroSpec](#)** | 🔙 Traffic-Based API Reverse Engineer |
-| **[ShiftRight](#)** | ➡️ Automated Semantic Code Migration Pipeline |
-| **[Synapse](#)** | 🧠 Autonomous Code Evolution Agent |
-| **[RepoRanger](#)** | 🤠 Intelligent Issue Triage & Response Bot |
-| **[RepoCleanse](#)** | 🧹 Intelligent Git History Sanitizer |
-| **[Repointel](#)** | 📡 Open Source Opportunity Hunter |
-| **[RepoScribe](#)** | 📝 Automated Repository Documentation |
-| **[SdkForge](#)** | 🔨 Intelligent API Client Generator |
-| **[GitPrompt](#)** | 💬 Version-Controlled Prompt Management via Chat |
-| **[A11yFix](#)** | ♿ Automated Accessibility Remediation Agent |
-| **[Dependable](#)** | 📦 Intelligent Dependency Risk Manager |
-| **[LegacyLift](#)** | 🏗️ Automated Legacy Code Modernizer |
-| **[MergeMind](#)** | 🧠 Intelligent Conflict Resolution Agent |
-
----
-
-### 🎨 Content, Media & Creative
-*AI-powered creativity at scale.*
-
-| Repository | Function |
-| :--- | :--- |
-| **[ContentMatrix](#)** | 📰 Automated SEO Content Factory |
-| **[ClipCraft](#)** | 🎬 Video Editing Automation |
-| **[PixelForge](#)** | 🖼️ Image Generation & Processing |
-| **[Visionary](#)** | 👁️ Multi-Modal Brand Sentinel |
-| **[VisionaryOps](#)** | 📸 Visual Operations Automation |
-| **[Vocalize](#)** | 🎙️ Text-to-Speech Engine |
-| **[ScribeFlow](#)** | 🎧 Audio to Workflow Orchestrator |
-| **[CodeChronicles](#)** | 📖 Autonomous Engineering Blog Engine |
-| **[DevRelEngine](#)** | 📢 Autonomous Release to Social Amplifier |
-| **[Memora](#)** | 🧠 Memory & Knowledge Management |
-
----
-
-### 🌐 API & Integration Logic
-*The nervous system of distributed applications.*
-
-| Repository | Function |
-| :--- | :--- |
-| **[BridgeAI](#)** | 🌉 Universal API Schema Translator |
-| **[IntentFlow](#)** | 🧠 Semantic API Gateway |
-| **[LinguaFlow](#)** | 🗣️ Natural Language Interface Generator |
-| **[SchemaDrift](#)** | 📉 Runtime API Contract Monitor |
-| **[ContractHunter](#)** | 🕵️ AI-Driven API Contract Compliance & Fuzzing |
-| **[LedgerLink](#)** | 💰 Autonomous Cross-Ledger Reconciliation Agent |
-| **[Transmute](#)** | 🔄 Data Transformation Engine |
-| **[Synthetix](#)** | 🧪 Synthetic Data Generator |
-
----
-
-### 🏢 Enterprise & Workflow
-*Orchestrating the business of software.*
-
-| Repository | Function |
-| :--- | :--- |
-| **[ArchitectFlow](#)** | 🏗️ Natural Language to System Design |
-| **[FlowSmith](#)** | 🔧 Dynamic Business Logic Orchestrator |
-| **[Docusync](#)** | 📄 Living Documentation Generator |
-| **[DocuWatch](#)** | 👀 Documentation Compliance Monitor |
-| **[IncidentMind](#)** | 🚨 Incident Management & Analysis |
-| **[VendorVantage](#)** | 🏢 Autonomous Third-Party Risk Intelligence |
-| **[PolicyForge](#)** | 📜 Automated Policy Generation |
-| **[ChaosChat](#)** | 🌪️ Conversational Chaos Engineering Orchestrator |
-| **[DrillOps](#)** | 🚨 Automated Disaster Recovery Validation |
-| **[EvalOps](#)** | 📊 Model Evaluation Operations |
-| **[Negotech](#)** | 🤝 Autonomous Multi-Agent Negotiation Simulator |
-| **[Orbit](#)** | 🪐 Multi-Orbital Research Agent |
-| **[TokenSqueeze](#)** | 🗜️ Token Usage Optimization |
-| **[ArbitrageX](#)** | ⚖️ Arbitrage Detection Engine |
-
----
-
-## 🤝 Let's Collaborate
-
-I am constantly building, deploying, and iterating. If you need an autonomous solution for your business or want to discuss the future of Agentic AI, reach out.
-
-**📩 mohamedsalem.fn@gmail.com**
-**💬 WhatsApp: +201107784321**
+</div>
