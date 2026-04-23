@@ -1,250 +1,220 @@
 <div align="center">
 
-### 👋 Hi, I'm Mohamed Salem
+# 👋 Hi, I'm Mohamed Salem
 
-# 🤖 Expert AI Engineer & Automation Architect
+### **Expert AI Engineer & Automation Architect**
+*Bridging the gap between Robust Infrastructure & Intelligent Agentic Systems*
 
 [![Email](https://img.shields.io/badge/Email-mohamedsalem.fn@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsalem.fn@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-201107784321-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201107784321)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elqary/)
 
-**Architecting the future of Agentic Systems, LLMs, and Intelligent Automation.**
-
-I bridge the gap between traditional software engineering (4+ years) and cutting-edge AI (1+ year), building autonomous agents that don't just assist—they execute.
+**4+ Years in Development | 1+ Year Specializing in AI & LLMs**
+*Faculty of Computers and Informatics, Zagazig University*
 
 ---
 
-### 🏆 GitHub Stats
-
-![Mohamed Salem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamedsalem-fn&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsalem-fn&layout=compact&theme=radical&hide_border=true)
-
-### 🛡️ Core Competencies
-
-[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-blueviolet)](https://github.com/Mohamedsalem-fn)
-[![Automation](https://img.shields.io/badge/Automation-Architect-orange)](https://github.com/Mohamedsalem-fn)
-[![LLMs](https://img.shields.io/badge/LLMs-Integration-success)](https://github.com/Mohamedsalem-fn)
-[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Orchestrator-red)](https://github.com/Mohamedsalem-fn)
-[![MLOps](https://img.shields.io/badge/MLOps-Pipelines-blue)](https://github.com/Mohamedsalem-fn)
+### 🧠 My Core Stack
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering-Expert-purple?style=flat-square)](https://github.com/elqary)
+[![Automation](https://img.shields.io/badge/Automation-Architect-blue?style=flat-square)](https://github.com/elqary)
+[![LLMs](https://img.shields.io/badge/LLMs-Specialist-orange?style=flat-square)](https://github.com/elqary)
+[![Agentic Systems](https://img.shields.io/badge/Agentic_Systems-Builder-red?style=flat-square)](https://github.com/elqary)
+[![MLOps](https://img.shields.io/badge/MLOps-Pipelines-green?style=flat-square)](https://github.com/elqary)
 
 </div>
 
 ---
 
-## 🚀 Current Focus: The DevRel Engine
-
-> **Just Deployed:** `DevRelEngine: Autonomous Release-to-Social Amplifier`
-
-The latest evolution in automated developer relations. This system autonomously transforms code releases into amplified social media narratives, managing the entire lifecycle from commit detection to multi-platform engagement.
-
-**[🔗 View DevRelEngine](https://github.com/Mohamedsalem-fn/devrelengine-_autonomous_release_to_social_amplifier)**
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elqary&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elqary&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 ---
 
-## 🛠 The Technical Arsenal
+## 🏆 Current Focus: DrillOps
+### **Automated Disaster Recovery Validation Framework** 🚀 *Just Deployed*
 
-**Tech Stack:**
-`Python` `LangChain` `OpenAI API` `Docker` `Kubernetes` `AWS` `Azure` `FastAPI` `React` `TensorFlow` `PyTorch`
+I am currently focused on **DrillOps**, a cutting-edge framework designed to autonomously validate disaster recovery protocols. This system simulates failure modes and verifies recovery integrity without human intervention, ensuring business continuity for critical infrastructure.
+
+**Key Capabilities:**
+- 🔥 **Autonomous Simulation:** Proactive failure scenario testing.
+- 🛡️ **Integrity Validation:** Automated verification of data and system state post-recovery.
+- ⚡ **Zero-Touch:** Fully automated validation pipelines.
+
+[**View DrillOps Repository**](https://github.com/elqary/drillops-_automated_disaster_recovery_validation_framework)
 
 ---
 
-## 🌌 The AI Ecosystem (Project Portfolio)
+## 🤖 The Autonomous Agent Ecosystem
+I specialize in building "Agents that build Agents." Below is a curated selection of my 100+ public repositories, categorized by their domain of automation.
 
-With **100+ autonomous systems deployed**, I specialize in building "Agents" for every layer of the technology stack. Here is the breakdown of my production-grade repositories.
+### 🛡️ Security, Compliance & Governance
+*Automating risk, legal, and security posture management*
+- [`a11yfix`](https://github.com/elqary/a11yfix-_automated_accessibility_remediation_agent) - Automated accessibility remediation agent
+- [`apisentinel`](https://github.com/elqary/apisentinel-_contract_first_integration_testing_agent) - Contract-first integration testing agent
+- [`audittrail`](https://github.com/elqary/audittrail-_automated_compliance_evidence_architect) - Automated compliance evidence architect
+- [`brandfortress`](https://github.com/elqary/brandfortress-_automated_digital_asset_protection_system) - Automated digital asset protection system
+- [`chainguardian`](https://github.com/elqary/chainguardian-_semantic_supply_chain_security) - Semantic supply chain security
+- [`codesentry`](https://github.com/elqary/codesentry-_autonomous_security_auditor) - Autonomous security auditor
+- [`complianceguard`](https://github.com/elqary/complianceguard) - Automated compliance enforcement
+- [`compliancehorizon`](https://github.com/elqary/compliancehorizon) - Compliance monitoring
+- [`contracthunter`](https://github.com/elqary/contracthunter-_ai_driven_api_contract_compliance_-_fuzzing_agent) - API contract compliance & fuzzing agent
+- [`docuwatch`](https://github.com/elqary/docuwatch) - Document monitoring agent
+- [`legislens`](https://github.com/elqary/legislens-_automated_regulatory_change_tracker) - Automated regulatory change tracker
+- [`lexiguard`](https://github.com/elqary/lexiguard-_intelligent_contract_risk_analyzer) - Intelligent contract risk analyzer
+- [`patchpilot`](https://github.com/elqary/patchpilot-_autonomous_vulnerability_remediation_agent) - Autonomous vulnerability remediation agent
+- [`phishnet`](https://github.com/elqary/phishnet-_ai_driven_security_awareness_simulation_platform) - AI-driven security awareness simulation
+- [`policyforge`](https://github.com/elqary/policyforge) - Policy generation agent
+- [`privacyshield`](https://github.com/elqary/privacyshield-_automated_pii_detection_-_compliance_auditor) - PII detection & compliance auditor
+- [`promptguard`](https://github.com/elqary/promptguard-_adversarial_red_teaming_suite) - Adversarial red teaming suite
+- [`semanticshield`](https://github.com/elqary/semanticshield) - Semantic data protection layer
+- [`sentinelops`](https://github.com/elqary/sentinelops) - Security operations orchestration
+- [`strider`](https://github.com/elqary/strider-_automated_threat_modeling_architect) - Automated threat modeling architect
+- [`termsentry`](https://github.com/elqary/termsentry-_automated_tos_-_policy_change_monitor) - Automated TOS & policy change monitor
+- [`vaultguard`](https://github.com/elqary/vaultguard-_automated_secret_remediation_agent) - Automated secret remediation agent
+- [`vendorvantage`](https://github.com/elqary/vendorvantage-_autonomous_third_party_risk_intelligence_analyst) - Third-party risk intelligence analyst
+- [`vulnvector`](https://github.com/elqary/vulnvector-_cve_to_code_impact_analyzer) - CVE to code impact analysis
 
-### 🤖 1. The Agentic Core
-*Autonomous agents designed to handle complex reasoning and multi-step workflows.*
+### ⚙️ DevOps, Cloud & Infrastructure
+*Self-healing systems and cloud optimization*
+- [`carbonops`](https://github.com/elqary/carbonops-_cloud_sustainability_-_emissions_auditor) - Cloud sustainability & emissions auditor
+- [`cloudoptima`](https://github.com/elqary/cloudoptima) - Cloud optimization agent
+- [`cloudsentry`](https://github.com/elqary/cloudsentry-_autonomous_cost_optimization_engine) - Autonomous cost optimization engine
+- [`devrelengine`](https://github.com/elqary/devrelengine-_autonomous_release_to_social_amplifier) - Release to social amplifier
+- [`driftops`](https://github.com/elqary/driftops-_infrastructure_drift_detection_-_auto_remediation_system) - Infrastructure drift detection & auto-remediation
+- [`fluxguard`](https://github.com/elqary/fluxguard-_autonomous_ci-cd_log_healer) - Autonomous CI/CD log healer
+- [`frugalcloud`](https://github.com/elqary/frugalcloud) - Cloud sustainability auditor
+- [`gitgates`](https://github.com/elqary/gitgates-_semantic_workflow_enforcement_agent) - Semantic workflow enforcement agent
+- [`governgrid`](https://github.com/elqary/governgrid-_autonomous_cloud_compliance_-_governance_engine) - Cloud compliance & governance engine
+- [`incidentmind`](https://github.com/elqary/incidentmind) - Incident management AI
+- [`infragenie`](https://github.com/elqary/infragenie-_conversational_cloud_architect) - Conversational cloud architect
+- [`infrascribe`](https://github.com/elqary/infrascribe) - Infrastructure documentation agent
+- [`kubepilot`](https://github.com/elqary/kubepilot-_autonomous_kubernetes_troubleshooter) - Autonomous Kubernetes troubleshooter
+- [`opsbot`](https://github.com/elqary/opsbot-_whatsapp_devops_orchestrator) - WhatsApp DevOps orchestrator
+- [`pipelinegen`](https://github.com/elqary/pipelinegen-_autonomous_ci-cd_constructor) - Autonomous CI/CD constructor
+- [`releasecraft`](https://github.com/elqary/releasecraft) - Release automation agent
+- [`releaseflow`](https://github.com/elqary/releaseflow) - Release workflow manager
+- [`resilienceray`](https://github.com/elqary/resilienceray) - Resilience testing agent
+- [`sitepulse`](https://github.com/elqary/sitepulse-_intelligent_uptime_-_root_cause_analyzer) - Intelligent uptime & root cause analyzer
+- [`syncops`](https://github.com/elqary/syncops-_intelligent_engineering_stand_up_orchestrator) - Engineering stand-up orchestrator
+- [`terrachat`](https://github.com/elqary/terrachat-_conversational_cloud_resource_manager) - Conversational cloud resource manager
+- [`terraformtamer`](https://github.com/elqary/terraformtamer-_autonomous_cloud_resource_auditor) - Autonomous cloud resource auditor
+- [`turbopipe`](https://github.com/elqary/turbopipe-_ci-cd_performance_analyzer_-_auto_optimizer) - CI/CD performance analyzer & optimizer
+- [`visionaryops`](https://github.com/elqary/visionaryops) - Visual operations agent
 
-- **[nexus-multi_agent_research_orchestration_framework](https://github.com/Mohamedsalem-fn/nexus-_multi_agent_research_orchestration_framework)**: The brain behind multi-agent coordination.
-- **[negotech-autonomous_multi_agent_negotiation_simulator](https://github.com/Mohamedsalem-fn/negotech-_autonomous_multi_agent_negotiation_simulator)**: AI-driven negotiation logic.
-- **[orbit-multi_orbital_research_agent](https://github.com/Mohamedsalem-fn/orbit-_multi_orbital_research_agent)**: Expansive data gathering agents.
-- **[omnicreate-autonomous_multi_modal_campaign_engine](https://github.com/Mohamedsalem-fn/omnicreate-_autonomous_multi_modal_campaign_engine)**: Creative generation agents.
-- **[nexus-cross_platform_ai_concierge](https://github.com/Mohamedsalem-fn/nexus-_cross_platform_ai_concierge)**: User-facing autonomous assistants.
-- **[omnibot_nexus](https://github.com/Mohamedsalem-fn/omnibot_nexus)**: Centralized bot logic.
-- **[synapse-autonomous_code_evolution_agent](https://github.com/Mohamedsalem-fn/synapse-_autonomous_code_evolution_agent)**: Self-improving code agents.
-- **[mergemind-intelligent_conflict_resolution_agent](https://github.com/Mohamedsalem-fn/mergemind-_intelligent_conflict_resolution_agent)**: Logic for resolving complex data conflicts.
+### 🧪 Testing, QA & Code Quality
+*Autonomous verification and code evolution*
+- [`autospec`](https://github.com/elqary/autospec-_autonomous_test_suite_generator) - Autonomous test suite generator
+- [`codemorph`](https://github.com/elqary/codemorph-_autonomous_refactoring_agent) - Autonomous refactoring agent
+- [`evalops`](https://github.com/elqary/evalops) - Model evaluation operations
+- [`loglens`](https://github.com/elqary/loglens-_autonomous_log_anomaly_detection_-_forensics_agent) - Log anomaly detection & forensics
+- [`logiclens`](https://github.com/elqary/logiclens-_semantic_code_review_-_risk_analyzer) - Semantic code review & risk analyzer
+- [`mockgen`](https://github.com/elqary/mockgen-_dynamic_api_mocking_-_contract_testing_agent) - Dynamic API mocking & contract testing
+- [`repocleanse`](https://github.com/elqary/repocleanse-_intelligent_git_history_sanitizer) - Intelligent git history sanitizer
+- [`reporanger`](https://github.com/elqary/reporanger-_autonomous_open_source_contributor) - Autonomous open source contributor
+- [`shiftright`](https://github.com/elqary/shiftright-_automated_semantic_code_migration_pipeline) - Automated semantic code migration pipeline
+- [`synapse`](https://github.com/elqary/synapse-_autonomous_code_evolution_agent) - Autonomous code evolution agent
+- [`testgenius`](https://github.com/elqary/testgenius-_autonomous_unit_test_generator) - Autonomous unit test generator
+- [`tickettamer`](https://github.com/elqary/tickettamer-_autonomous_issue_refinement_agent) - Autonomous issue refinement agent
+- [`tracemind`](https://github.com/elqary/tracemind-_semantic_distributed_tracing_analyzer) - Semantic distributed tracing analyzer
+- [`visioguard`](https://github.com/elqary/visioguard-_autonomous_visual_regression_agent) - Autonomous visual regression agent
 
-### 🛡 2. Security & Compliance Guardians
-*Automated red-teaming, compliance auditing, and vulnerability remediation.*
+### 📊 Data, Analytics & Research
+*Turning unstructured data into actionable intelligence*
+- [`cognigraph`](https://github.com/elqary/cognigraph-_autonomous_research_knowledge_graph) - Autonomous research knowledge graph
+- [`datajanitor`](https://github.com/elqary/datajanitor-_autonomous_data_cleaning_-_enrichment_pipeline) - Autonomous data cleaning & enrichment
+- [`deepdive`](https://github.com/elqary/deepdive) - Deep research agent
+- [`earningswhisper`](https://github.com/elqary/earningswhisper) - Earnings analysis agent
+- [`echostream`](https://github.com/elqary/echostream-_real_time_social_audio_intelligence) - Real-time social audio intelligence
+- [`marketpulse`](https://github.com/elqary/marketpulse-_competitive_intelligence_agent) - Competitive intelligence agent
+- [`neurostrat`](https://github.com/elqary/neurostrat-_autonomous_quantitative_research_engine) - Autonomous quantitative research engine
+- [`prism`](https://github.com/elqary/prism-_multi_source_intelligence_aggregator) - Multi-source intelligence aggregator
+- [`querymind`](https://github.com/elqary/querymind-_natural_language_to_sql_architect) - Natural language to SQL architect
+- [`retrospec`](https://github.com/elqary/retrospec-_traffic_based_api_reverse_engineer) - Traffic-based API reverse engineer
+- [`scrapemaster`](https://github.com/elqary/scrapemaster-_hierarchical_multi_agent_scraper) - Hierarchical multi-agent scraper
+- [`serpsense`](https://github.com/elqary/serpsense-_autonomous_seo_strategy_-_gap_analyst) - Autonomous SEO strategy & gap analyst
+- [`signalstream`](https://github.com/elqary/signalstream-_real_time_market_intelligence_aggregator) - Real-time market intelligence aggregator
+- [`streamsense`](https://github.com/elqary/streamsense) - Stream data analysis
+- [`trendsurfer`](https://github.com/elqary/trendsurfer-_real_time_niche_trend_hunter) - Real-time niche trend hunter
 
-- **[chainguardian-semantic_supply_chain_security](https://github.com/Mohamedsalem-fn/chainguardian-_semantic_supply_chain_security)**: Supply chain threat analysis.
-- **[vulnvector-cve_to_code_impact_analyzer](https://github.com/Mohamedsalem-fn/vulnvector-_cve_to_code_impact_analyzer)**: Instant CVE impact assessment.
-- **[strider-automated_threat_modeling_architect](https://github.com/Mohamedsalem-fn/strider-_automated_threat_modeling_architect)**: Proactive threat modeling.
-- **[vaultguard-automated_secret_remediation_agent](https://github.com/Mohamedsalem-fn/vaultguard-_automated_secret_remediation_agent)**: Secret scanning & fixing.
-- **[phishnet-ai_driven_security_awareness_simulation_platform](https://github.com/Mohamedsalem-fn/phishnet-_ai_driven_security_awareness_simulation_platform)**: Security training simulations.
-- **[lexiguard-intelligent_contract_risk_analyzer](https://github.com/Mohamedsalem-fn/lexiguard-_intelligent_contract_risk_analyzer)**: Legal/Contract risk AI.
-- **[privacyshield-automated_pii_detection_-_compliance_auditor](https://github.com/Mohamedsalem-fn/privacyshield-_automated_pii_detection_-_compliance_auditor)**: GDPR/Privacy compliance.
-- **[complianceguard](https://github.com/Mohamedsalem-fn/complianceguard)**: General compliance enforcement.
-- **[compliancehorizon](https://github.com/Mohamedsalem-fn/compliancehorizon)**: Future-proofing compliance standards.
-- **[legislens-automated_regulatory_change_tracker](https://github.com/Mohamedsalem-fn/legislens-_automated_regulatory_change_tracker)**: Regulatory monitoring.
-- **[termsentry-automated_tos_-_policy_change_monitor](https://github.com/Mohamedsalem-fn/termsentry-_automated_tos_-_policy_change_monitor)**: TOS tracking.
-- **[promptguard-adversarial_red_teaming_suite](https://github.com/Mohamedsalem-fn/promptguard-_adversarial_red_teaming_suite)**: LLM security hardening.
-- **[semanticshield](https://github.com/Mohamedsalem-fn/semanticshield)**: Semantic data protection.
-- **[sentinelops](https://github.com/Mohamedsalem-fn/sentinelops)**: Operational security monitoring.
-- **[vendorvantage-autonomous_third_party_risk_intelligence_analyst](https://github.com/Mohamedsalem-fn/vendorvantage-_autonomous_third_party_risk_intelligence_analyst)**: Third-party risk assessment.
-- **[codesentry-_autonomous_security_auditor](https://github.com/Mohamedsalem-fn/codesentry-_autonomous_security_auditor)**: Autonomous code security auditing.
+### 📝 Content, LLMs & Productivity
+*Generative AI and prompt engineering systems*
+- [`clipcraft`](https://github.com/elqary/clipcraft) - Video/Clip generation agent
+- [`codechronicles`](https://github.com/elqary/codechronicles-_autonomous_engineering_blog_engine) - Autonomous engineering blog engine
+- [`linguaflow`](https://github.com/elqary/linguaflow) - Language translation/flow agent
+- [`memora`](https://github.com/elqary/memora) - Memory management agent
+- [`modelrouter`](https://github.com/elqary/modelrouter) - Intelligent model routing
+- [`omnicreate`](https://github.com/elqary/omnicreate-_autonomous_multi_modal_campaign_engine) - Autonomous multi-modal campaign engine
+- [`personaengine`](https://github.com/elqary/personaengine-_dynamic_web_copy_personalizer) - Dynamic web copy personalizer
+- [`polyglot`](https://github.com/elqary/polyglot-_multi_model_consensus_engine) - Multi-model consensus engine
+- [`promptci`](https://github.com/elqary/promptci-_continuous_integration_for_prompt_engineering) - CI for prompt engineering
+- [`promptforge`](https://github.com/elqary/promptforge) - Automated prompt engineering studio
+- [`promptoptima`](https://github.com/elqary/promptoptima-_automated_prompt_engineering_studio) - Advanced prompt optimization
+- [`promptperf`](https://github.com/elqary/promptperf) - Prompt performance analyzer
+- [`repointel`](https://github.com/elqary/repointel-_open_source_opportunity_hunter) - Open source opportunity hunter
+- [`reposcribe`](https://github.com/elqary/reposcribe) - Repository documentation agent
+- [`roleplayai`](https://github.com/elqary/roleplayai-_sales_-_support_training_simulator) - Sales & support training simulator
+- [`scholarflow`](https://github.com/elqary/scholarflow-_adaptive_curriculum_architect) - Adaptive curriculum architect
+- [`scribeflow`](https://github.com/elqary/scribeflow-_audio_to_workflow_orchestrator) - Audio to workflow orchestrator
+- [`socratix`](https://github.com/elqary/socratix) - Socratic method AI tutor
+- [`specgen`](https://github.com/elqary/specgen-_autonomous_api_architect) - Autonomous API architect
+- [`synthetix`](https://github.com/elqary/synthetix) - Synthetic data generator
+- [`tokensqueeze`](https://github.com/elqary/tokensqueeze) - Token optimization agent
+- [`transmute`](https://github.com/elqary/transmute) - Data transformation agent
+- [`vocalize`](https://github.com/elqary/vocalize) - Text to speech agent
 
-### ☁️ 3. CloudOps & Infrastructure Orchestration
-*Self-healing infrastructure, cost optimization, and autonomous cloud management.*
+### 💼 Business, Finance & CRM
+*Autonomous business logic and revenue operations*
+- [`arbitragex`](https://github.com/elqary/arbitragex) - Financial arbitrage detection
+- [`careercraft`](https://github.com/elqary/careercraft-_intelligent_resume_tailoring_-_ats_optimization_engine) - Intelligent resume tailoring & ATS engine
+- [`flowsmith`](https://github.com/elqary/flowsmith-_dynamic_business_logic_orchestrator) - Dynamic business logic orchestrator
+- [`grantwise`](https://github.com/elqary/grantwise-_autonomous_grant_discovery_-_proposal_architect) - Autonomous grant discovery & proposal architect
+- [`leadgenius`](https://github.com/elqary/leadgenius) - Lead generation agent
+- [`ledgerlink`](https://github.com/elqary/ledgerlink-_autonomous_cross_ledger_reconciliation_agent) - Autonomous cross-ledger reconciliation
+- [`negotech`](https://github.com/elqary/negotech-_autonomous_multi_agent_negotiation_simulator) - Autonomous multi-agent negotiation simulator
+- [`outboundmind`](https://github.com/elqary/outboundmind) - Outbound sales automation
+- [`propulz`](https://github.com/elqary/propulz-_autonomous_freelance_proposal_generator) - Autonomous freelance proposal generator
+- [`prospectai`](https://github.com/elqary/prospectai-_autonomous_b2b_lead_generation_-_outreach_system) - Autonomous B2B lead generation & outreach
+- [`recruitai`](https://github.com/elqary/recruitai-_autonomous_talent_sourcing_-_outreach_agent) - Autonomous talent sourcing & outreach
+- [`resumearchitect`](https://github.com/elqary/resumearchitect-_ats_optimization_agent) - ATS optimization agent
+- [`talentsynth`](https://github.com/elqary/talentsynth) - Talent synthesis agent
+- [`tierzero`](https://github.com/elqary/tierzero-_autonomous_customer_support_triage_-_resolution_agent) - Customer support triage & resolution
+- [`veritas`](https://github.com/elqary/veritas-_real_time_claim_verification_engine) - Real-time claim verification engine
+- [`veritasflow`](https://github.com/elqary/veritasflow) - Claims workflow automation
+- [`voicesync`](https://github.com/elqary/voicesync-_whatsapp_to_crm_structured_extractor) - WhatsApp to CRM structured extractor
 
-- **[cloudsentry-autonomous_cost_optimization_engine](https://github.com/Mohamedsalem-fn/cloudsentry-_autonomous_cost_optimization_engine)**: Cutting cloud bills automatically.
-- **[infragenie-conversational_cloud_architect](https://github.com/Mohamedsalem-fn/infragenie-_conversational_cloud_architect)**: Chat-to-infrastructure provisioning.
-- **[kubepilot-autonomous_kubernetes_troubleshooter](https://github.com/Mohamedsalem-fn/kubepilot-_autonomous_kubernetes_troubleshooter)**: K8s issue resolution.
-- **[terraformtamer-autonomous_cloud_resource_auditor](https://github.com/Mohamedsalem-fn/terraformtamer-_autonomous_cloud_resource_auditor)**: IaC auditing.
-- **[terrachat-conversational_cloud_resource_manager](https://github.com/Mohamedsalem-fn/terrachat-_conversational_cloud_resource_manager)**: Managing cloud via chat.
-- **[driftops-infrastructure_drift_detection_-_auto_remediation_system](https://github.com/Mohamedsalem-fn/driftops-_infrastructure_drift_detection_-_auto_remediation_system)**: State consistency enforcement.
-- **[carbonops-cloud_sustainability_-_emissions_auditor](https://github.com/Mohamedsalem-fn/carbonops-_cloud_sustainability_-_emissions_auditor)**: Green cloud computing.
-- **[frugalcloud](https://github.com/Mohamedsalem-fn/frugalcloud)**: Resource efficiency strategies.
-- **[governgrid-autonomous_cloud_compliance_-_governance_engine](https://github.com/Mohamedsalem-fn/governgrid-_autonomous_cloud_compliance_-_governance_engine)**: Cloud governance.
-- **[resilienceray](https://github.com/Mohamedsalem-fn/resilienceray)**: Infrastructure resilience testing.
-- **[cloudoptima](https://github.com/Mohamedsalem-fn/cloudoptima)**: Advanced cloud optimization strategies.
+### 🌐 Integration & API Architecture
+*Bridging disparate systems seamlessly*
+- [`architectflow`](https://github.com/elqary/architectflow-_natural_language_to_system_design) - Natural language to system design
+- [`bridgeai`](https://github.com/elqary/bridgeai-_universal_api_schema_translator) - Universal API schema translator
+- [`dependable`](https://github.com/elqary/dependable-_intelligent_dependency_risk_manager) - Intelligent dependency risk manager
+- [`intentflow`](https://github.com/elqary/intentflow-_semantic_api_gateway) - Semantic API gateway
+- [`mergemind`](https://github.com/elqary/mergemind-_intelligent_conflict_resolution_agent) - Intelligent conflict resolution agent
+- [`nexus`](https://github.com/elqary/nexus-_cross_platform_ai_concierge) - Cross-platform AI concierge
+- [`omnibot_nexus`](https://github.com/elqary/omnibot_nexus) - Multi-bot nexus
+- [`orbit`](https://github.com/elqary/orbit-_multi_orbital_research_agent) - Multi-orbital research agent
+- [`pathfinder`](https://github.com/elqary/pathfinder-_dynamic_skill_gap_analysis_-_curriculum_generator) - Skill gap analysis & curriculum generator
+- [`resolutio`](https://github.com/elqary/resolutio-_autonomous_customer_support_orchestrator) - Customer support orchestrator
+- [`sdkforge`](https://github.com/elqary/sdkforge-_intelligent_api_client_generator) - Intelligent API client generator
 
-### 🧪 4. The CI/CD & Quality Assurance Fleet
-*Autonomous testing, log analysis, and release management.*
-
-- **[fluxguard-autonomous_ci-cd_log_healer](https://github.com/Mohamedsalem-fn/fluxguard-_autonomous_ci-cd_log_healer)**: Fixing build failures automatically.
-- **[turbopipe-ci-cd_performance_analyzer_-_auto_optimizer](https://github.com/Mohamedsalem-fn/turbopipe-_ci-cd_performance_analyzer_-_auto_optimizer)**: Pipeline speed optimization.
-- **[pipelinegen-autonomous_ci-cd_constructor](https://github.com/Mohamedsalem-fn/pipelinegen-_autonomous_ci-cd_constructor)**: Generating pipelines from code.
-- **[autospec-autonomous_test_suite_generator](https://github.com/Mohamedsalem-fn/autospec-_autonomous_test_suite_generator)**: Automated test planning.
-- **[testgenius-autonomous_unit_test_generator](https://github.com/Mohamedsalem-fn/testgenius-_autonomous_unit_test_generator)**: Writing unit tests via AI.
-- **[visioguard-autonomous_visual_regression_agent](https://github.com/Mohamedsalem-fn/visioguard-_autonomous_visual_regression_agent)**: UI change detection.
-- **[loglens-autonomous_log_anomaly_detection_-_forensics_agent](https://github.com/Mohamedsalem-fn/loglens-_autonomous_log_anomaly_detection_-_forensics_agent)**: Log forensics.
-- **[releasecraft](https://github.com/Mohamedsalem-fn/releasecraft)**: Release management.
-- **[releaseflow](https://github.com/Mohamedsalem-fn/releaseflow)**: Streamlined release workflows.
-- **[promptci-continuous_integration_for_prompt_engineering](https://github.com/Mohamedsalem-fn/promptci-_continuous_integration_for_prompt_engineering)**: CI/CD for Prompts.
-
-### 💻 5. Code Intelligence & Refactoring
-*Agents that read, write, and improve code.*
-
-- **[codemorph-autonomous_refactoring_agent](https://github.com/Mohamedsalem-fn/codemorph-_autonomous_refactoring_agent)**: Automated code refactoring.
-- **[codecartography-autonomous_architecture_visualizer](https://github.com/Mohamedsalem-fn/codecartography-_autonomous_architecture_visualizer)**: Mapping code structure.
-- **[logiclens-semantic_code_review_-_risk_analyzer](https://github.com/Mohamedsalem-fn/logiclens-_semantic_code_review_-_risk_analyzer)**: AI code review.
-- **[shiftright-automated_semantic_code_migration_pipeline](https://github.com/Mohamedsalem-fn/shiftright-_automated_semantic_code_migration_pipeline)**: Language/Framework migration.
-- **[legacylift](https://github.com/Mohamedsalem-fn/legacylift)**: Modernizing legacy systems.
-- **[repocleanse-intelligent_git_history_sanitizer](https://github.com/Mohamedsalem-fn/repocleanse-_intelligent_git_history_sanitizer)**: Cleaning git history.
-- **[patchpilot-autonomous_vulnerability_remediation_agent](https://github.com/Mohamedsalem-fn/patchpilot-_autonomous_vulnerability_remediation_agent)**: Automated patching.
-- **[a11yfix-_automated_accessibility_remediation_agent](https://github.com/Mohamedsalem-fn/a11yfix-_automated_accessibility_remediation_agent)**: Automated accessibility fixes.
-
-### 📊 6. Data, Analytics & Research
-*Turning unstructured data into actionable intelligence.*
-
-- **[cognigraph-autonomous_research_knowledge_graph](https://github.com/Mohamedsalem-fn/cognigraph-_autonomous_research_knowledge_graph)**: Knowledge graph construction.
-- **[datajanitor-autonomous_data_cleaning_-_enrichment_pipeline](https://github.com/Mohamedsalem-fn/datajanitor-_autonomous_data_cleaning_-_enrichment_pipeline)**: ETL automation.
-- **[querymind-natural_language_to_sql_architect](https://github.com/Mohamedsalem-fn/querymind-_natural_language_to_sql_architect)**: Text-to-SQL generation.
-- **[scrapemaster-hierarchical_multi_agent_scraper](https://github.com/Mohamedsalem-fn/scrapemaster-_hierarchical_multi_agent_scraper)**: Advanced web scraping.
-- **[signalstream-real_time_market_intelligence_aggregator](https://github.com/Mohamedsalem-fn/signalstream-_real_time_market_intelligence_aggregator)**: Market data feeds.
-- **[marketpulse-competitive_intelligence_agent](https://github.com/Mohamedsalem-fn/marketpulse-_competitive_intelligence_agent)**: Competitor analysis.
-- **[trendsurfer-real_time_niche_trend_hunter](https://github.com/Mohamedsalem-fn/trendsurfer-_real_time_niche_trend_hunter)**: Trend discovery.
-- **[neurostrat-autonomous_quantitative_research_engine](https://github.com/Mohamedsalem-fn/neurostrat-_autonomous_quantitative_research_engine)**: Quant finance research.
-- **[prism-multi_source_intelligence_aggregator](https://github.com/Mohamedsalem-fn/prism-_multi_source_intelligence_aggregator)**: Data fusion.
-- **[deepdive](https://github.com/Mohamedsalem-fn/deepdive)**: Deep data analysis.
-- **[streamsense](https://github.com/Mohamedsalem-fn/streamsense)**: Stream processing.
-- **[arbitragex](https://github.com/Mohamedsalem-fn/arbitragex)**: Financial arbitrage detection.
-- **[chartgenie](https://github.com/Mohamedsalem-fn/chartgenie)**: Automated chart generation.
-- **[earningswhisper](https://github.com/Mohamedsalem-fn/earningswhisper)**: Earnings analysis.
-
-### 📝 7. Documentation & Knowledge Management
-*Automating the creation and maintenance of docs.*
-
-- **[documind-enterprise_rag_knowledge_base](https://github.com/Mohamedsalem-fn/documind-_enterprise_rag_knowledge_base)**: RAG-based knowledge systems.
-- **[docusync-living_documentation_generator](https://github.com/Mohamedsalem-fn/docusync-_living_documentation_generator)**: Auto-updating docs.
-- **[codechronicles-autonomous_engineering_blog_engine](https://github.com/Mohamedsalem-fn/codechronicles-_autonomous_engineering_blog_engine)**: Automated blogging.
-- **[reposcribe](https://github.com/Mohamedsalem-fn/reposcribe)**: Repo documentation.
-- **[infrascribe](https://github.com/Mohamedsalem-fn/infrascribe)**: Infrastructure documentation.
-- **[docuwatch](https://github.com/Mohamedsalem-fn/docuwatch)**: Documentation monitoring.
-
-### 📢 8. Marketing, Sales & Growth Automation
-*AI agents that drive revenue and brand presence.*
-
-- **[prospectai-autonomous_b2b_lead_generation_-_outreach_system](https://github.com/Mohamedsalem-fn/prospectai-_autonomous_b2b_lead_generation_-_outreach_system)**: B2B Sales automation.
-- **[recruitai-autonomous_talent_sourcing_-_outreach_agent](https://github.com/Mohamedsalem-fn/recruitai-_autonomous_talent_sourcing_-_outreach_agent)**: HR automation.
-- **[contentmatrix-automated_seo_content_factory](https://github.com/Mohamedsalem-fn/contentmatrix-_automated_seo_content_factory)**: SEO content at scale.
-- **[serpsense-autonomous_seo_strategy_-_gap_analyst](https://github.com/Mohamedsalem-fn/serpsense-_autonomous_seo_strategy_-_gap_analyst)**: SEO strategy.
-- **[brandfortress-automated_digital_asset_protection_system](https://github.com/Mohamedsalem-fn/brandfortress-_automated_digital_asset_protection_system)**: Brand protection.
-- **[visionary-multi_modal_brand_sentiment_analyzer](https://github.com/Mohamedsalem-fn/visionary-_multi_modal_brand_sentiment_analyzer)**: Brand sentiment tracking.
-- **[personaengine-dynamic_web_copy_personalizer](https://github.com/Mohamedsalem-fn/personaengine-_dynamic_web_copy_personalizer)**: Personalized marketing copy.
-- **[propulz-autonomous_freelance_proposal_generator](https://github.com/Mohamedsalem-fn/propulz-_autonomous_freelance_proposal_generator)**: Proposal automation.
-- **[leadgenius](https://github.com/Mohamedsalem-fn/leadgenius)**: Lead intelligence.
-- **[outboundmind](https://github.com/Mohamedsalem-fn/outboundmind)**: Outreach strategy.
-- **[clipcraft](https://github.com/Mohamedsalem-fn/clipcraft)**: Automated clip generation.
-- **[pixelforge](https://github.com/Mohamedsalem-fn/pixelforge)**: Image generation tools.
-- **[visionary-_multi_modal_brand_sentinel](https://github.com/Mohamedsalem-fn/visionary-_multi_modal_brand_sentinel)**: Brand monitoring.
-
-### 🧩 9. API & Integration Specialists
-*Contract testing, API generation, and translation.*
-
-- **[apisentinel-contract_first_integration_testing_agent](https://github.com/Mohamedsalem-fn/apisentinel-_contract_first_integration_testing_agent)**: API contract testing.
-- **[bridgeai-universal_api_schema_translator](https://github.com/Mohamedsalem-fn/bridgeai-_universal_api_schema_translator)**: API translation.
-- **[contracthunter-ai_driven_api_contract_compliance_-_fuzzing_agent](https://github.com/Mohamedsalem-fn/contracthunter-_ai_driven_api_contract_compliance_-_fuzzing_agent)**: API fuzzing.
-- **[intentflow-semantic_api_gateway](https://github.com/Mohamedsalem-fn/intentflow-_semantic_api_gateway)**: Intelligent API routing.
-- **[mockgen-dynamic_api_mocking_-_contract_testing_agent](https://github.com/Mohamedsalem-fn/mockgen-_dynamic_api_mocking_-_contract_testing_agent)**: Dynamic mocking.
-- **[sdkforge-intelligent_api_client_generator](https://github.com/Mohamedsalem-fn/sdkforge-_intelligent_api_client_generator)**: Auto-generating SDKs.
-- **[specgen-autonomous_api_architect](https://github.com/Mohamedsalem-fn/specgen-_autonomous_api_architect)**: API spec generation.
-- **[retrospec-traffic_based_api_reverse_engineer](https://github.com/Mohamedsalem-fn/retrospec-_traffic_based_api_reverse_engineer)**: Reverse engineering APIs.
-
-### 🎓 10. Education & Career Development
-*AI for learning and career optimization.*
-
-- **[careercraft-intelligent_resume_tailoring_-_ats_optimization_engine](https://github.com/Mohamedsalem-fn/careercraft-_intelligent_resume_tailoring_-_ats_optimization_engine)**: Resume optimization.
-- **[resumearchitect-ats_optimization_agent](https://github.com/Mohamedsalem-fn/resumearchitect-_ats_optimization_agent)**: ATS beating tools.
-- **[pathfinder-dynamic_skill_gap_analysis_-_curriculum_generator](https://github.com/Mohamedsalem-fn/pathfinder-_dynamic_skill_gap_analysis_-_curriculum_generator)**: Learning path generation.
-- **[scholarflow-adaptive_curriculum_architect](https://github.com/Mohamedsalem-fn/scholarflow-_adaptive_curriculum_architect)**: Educational curriculum design.
-- **[roleplayai-sales_-_support_training_simulator](https://github.com/Mohamedsalem-fn/roleplayai-_sales_-_support_training_simulator)**: Professional training simulations.
-
-### ⚙️ 11. Specialized Utilities & Tools
-*A collection of highly focused automation tools.*
-
-- **[architectflow-natural_language_to_system_design](https://github.com/Mohamedsalem-fn/architectflow-_natural_language_to_system_design)**: Text to System Design.
-- **[audittrail-automated_compliance_evidence_architect](https://github.com/Mohamedsalem-fn/audittrail-_automated_compliance_evidence_architect)**: Compliance evidence.
-- **[chaoschat-conversational_chaos_engineering_orchestrator](https://github.com/Mohamedsalem-fn/chaoschat-_conversational_chaos_engineering_orchestrator)**: Chaos engineering via chat.
-- **[communityguard-omni_channel_moderation_agent](https://github.com/Mohamedsalem-fn/communityguard-_omni_channel_moderation_agent)**: Content moderation.
-- **[dependable-intelligent_dependency_risk_manager](https://github.com/Mohamedsalem-fn/dependable-_intelligent_dependency_risk_manager)**: Dependency management.
-- **[echostream-real_time_social_audio_intelligence](https://github.com/Mohamedsalem-fn/echostream-_real_time_social_audio_intelligence)**: Audio analysis.
-- **[evalops](https://github.com/Mohamedsalem-fn/evalops)**: Evaluation operations.
-- **[flowsmith-dynamic_business_logic_orchestrator](https://github.com/Mohamedsalem-fn/flowsmith-_dynamic_business_logic_orchestrator)**: Business logic automation.
-- **[gitgates-semantic_workflow_enforcement_agent](https://github.com/Mohamedsalem-fn/gitgates-_semantic_workflow_enforcement_agent)**: Git workflow enforcement.
-- **[gitprompt-version_controlled_prompt_management_via_chat](https://github.com/Mohamedsalem-fn/gitprompt-_version_controlled_prompt_management_via_chat)**: Prompt versioning.
-- **[incidentmind](https://github.com/Mohamedsalem-fn/incidentmind)**: Incident management.
-- **[ledgerlink-autonomous_cross_ledger_reconciliation_agent](https://github.com/Mohamedsalem-fn/ledgerlink-_autonomous_cross_ledger_reconciliation_agent)**: Financial reconciliation.
-- **[linguaflow](https://github.com/Mohamedsalem-fn/linguaflow)**: Language workflows.
-- **[memora](https://github.com/Mohamedsalem-fn/memora)**: Memory management.
-- **[modelrouter](https://github.com/Mohamedsalem-fn/modelrouter)**: AI model routing.
-- **[opsbot-whatsapp_devops_orchestrator](https://github.com/Mohamedsalem-fn/opsbot-_whatsapp_devops_orchestrator)**: DevOps via WhatsApp.
-- **[policyforge](https://github.com/Mohamedsalem-fn/policyforge)**: Policy generation.
-- **[polyglot-multi_model_consensus_engine](https://github.com/Mohamedsalem-fn/polyglot-_multi_model_consensus_engine)**: Multi-model logic.
-- **[promptforge](https://github.com/Mohamedsalem-fn/promptforge)**: Prompt crafting.
-- **[promptoptima-automated_prompt_engineering_studio](https://github.com/Mohamedsalem-fn/promptoptima-_automated_prompt_engineering_studio)**: Prompt optimization.
-- **[promptperf](https://github.com/Mohamedsalem-fn/promptperf)**: Prompt performance.
-- **[repointel-open_source_opportunity_hunter](https://github.com/Mohamedsalem-fn/repointel-_open_source_opportunity_hunter)**: OS contribution finder.
-- **[reporanger-autonomous_open_source_contributor](https://github.com/Mohamedsalem-fn/reporanger-_autonomous_open_source_contributor)**: Automated contributions.
-- **[reporanger-intelligent_issue_triage_-_response_bot](https://github.com/Mohamedsalem-fn/reporanger-_intelligent_issue_triage_-_response_bot)**: Issue bot.
-- **[resolutio-autonomous_customer_support_orchestrator](https://github.com/Mohamedsalem-fn/resolutio-_autonomous_customer_support_orchestrator)**: Customer support.
-- **[scribeflow-audio_to_workflow_orchestrator](https://github.com/Mohamedsalem-fn/scribeflow-_audio_to_workflow_orchestrator)**: Audio to tasks.
-- **[sitepulse-intelligent_uptime_-_root_cause_analyzer](https://github.com/Mohamedsalem-fn/sitepulse-_intelligent_uptime_-_root_cause_analyzer)**: Uptime monitoring.
-- **[socratix](https://github.com/Mohamedsalem-fn/socratix)**: Socratic method AI.
-- **[syncops-intelligent_engineering_stand_up_orchestrator](https://github.com/Mohamedsalem-fn/syncops-_intelligent_engineering_stand_up_orchestrator)**: Stand-up automation.
-- **[synthetix](https://github.com/Mohamedsalem-fn/synthetix)**: Data synthesis.
-- **[talentsynth](https://github.com/Mohamedsalem-fn/talentsynth)**: Talent synthesis.
-- **[tickettamer-autonomous_issue_refinement_agent](https://github.com/Mohamedsalem-fn/tickettamer-_autonomous_issue_refinement_agent)**: Issue refinement.
-- **[tierzero-autonomous_customer_support_triage_-_resolution_agent](https://github.com/Mohamedsalem-fn/tierzero-_autonomous_customer_support_triage_-_resolution_agent)**: Support triage.
-- **[tokensqueeze](https://github.com/Mohamedsalem-fn/tokensqueeze)**: Token optimization.
-- **[tracemind-semantic_distributed_tracing_analyzer](https://github.com/Mohamedsalem-fn/tracemind-_semantic_distributed_tracing_analyzer)**: Distributed tracing.
-- **[transmute](https://github.com/Mohamedsalem-fn/transmute)**: Data transformation.
-- **[veritas-real_time_claim_verification_engine](https://github.com/Mohamedsalem-fn/veritas-_real_time_claim_verification_engine)**: Claim verification.
-- **[veritasflow](https://github.com/Mohamedsalem-fn/veritasflow)**: Verification workflows.
-- **[visionaryops](https://github.com/Mohamedsalem-fn/visionaryops)**: Visual operations.
-- **[vocalize](https://github.com/Mohamedsalem-fn/vocalize)**: Voice generation.
-- **[voicesync-whatsapp_to_crm_structured_extractor](https://github.com/Mohamedsalem-fn/voicesync-_whatsapp_to_crm_structured_extractor)**: WhatsApp to CRM.
-- **[grantwise-_autonomous_grant_discovery_-_proposal_architect](https://github.com/Mohamedsalem-fn/grantwise-_autonomous_grant_discovery_-_proposal_architect)**: Grant discovery.
+### 🧩 General & Utilities
+- [`Mohamedsalem-fn`](https://github.com/elqary/Mohamedsalem-fn) - Profile Repository
+- [`chartgenie`](https://github.com/elqary/chartgenie) - Chart generation agent
+- [`communityguard`](https://github.com/elqary/communityguard-_omni_channel_moderation_agent) - Omni-channel moderation agent
+- [`legacylift`](https://github.com/elqary/legacylift) - Legacy code modernization
 
 ---
 
 <div align="center">
 
-**🏗️ Built with precision by Mohamed Salem**
+### 🤝 Let's Build the Future
 
-*Faculty of Computers and Informatics, Zagazig University*
+I am always open to discussing high-impact AI automation, Agentic architectures, and DevOps integrations.
 
-*"Automating the world, one agent at a time."*
+**[📩 Email Me](mailto:mohamedsalem.fn@gmail.com)** &nbsp;&nbsp;&nbsp; **[💼 Connect on LinkedIn](https://www.linkedin.com/in/elqary/)** &nbsp;&nbsp;&nbsp; **[💬 WhatsApp](https://wa.me/201107784321)**
+
+*⚡ Turning complexity into autonomous code*
 
 </div>
