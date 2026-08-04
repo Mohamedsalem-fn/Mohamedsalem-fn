@@ -37,26 +37,38 @@ I am passionate about building the future of autonomous systems and solving comp
 
 ---
 
-## 🏆 Featured Agentic & Automation Projects
+## 🏆 Featured Projects & Autonomous Systems
 
-Here are some of my recently published projects showcasing my work in building intelligent and autonomous systems:
+Here are some of my recently published projects showcasing my work in building intelligent systems, robust APIs, and comprehensive web applications:
 
-### 🤖 AI Agents & Autonomous Systems
-- **[whatsapp-employee-agent](https://github.com/Mohamedsalem-fn/whatsapp-employee-agent)**: An AI-powered virtual employee agent for WhatsApp, acting as a human-like customer service representative (Node.js, MongoDB, Redis, BullMQ).
-- **[codeforces (GravityBot)](https://github.com/Mohamedsalem-fn/codeforces)**: An autonomous AI agent designed to solve Codeforces problems using Gemini 1.5 and Playwright.
-- **[AWS](https://github.com/Mohamedsalem-fn/AWS)**: A CLI bot for interacting directly with Claude 3 Opus on Amazon Bedrock.
-- **[video-generator](https://github.com/Mohamedsalem-fn/video-generator)**: An automated agent for generating videos using Puppeteer and Node.js.
+### 🤖 AI Agents & WhatsApp Automation
+- **[whatsapp-bot-0](https://github.com/Mohamedsalem-fn/whatsapp-bot-0)**: A comprehensive WhatsApp automation bot designed for robust messaging workflows.
+- **[quran-channel](https://github.com/Mohamedsalem-fn/quran-channel)**: A specialized channel bot for broadcasting Quranic content.
+- **[whatsapp-employee-agent](https://github.com/Mohamedsalem-fn/whatsapp-employee-agent)**: An AI-powered virtual employee agent acting as a human-like customer service representative (Node.js, MongoDB, Redis, BullMQ).
 
-### 📱 Telegram Intelligence & Automation
+### 📱 Telegram Intelligence & Bots
 - **[Telegram-calls](https://github.com/Mohamedsalem-fn/Telegram-calls)**: An AI-driven Telegram voice call bot that listens to Quran recitation, transcribes it locally using faster-whisper, and matches it against the Quran text.
 - **[sahiny-telegram-calls](https://github.com/Mohamedsalem-fn/sahiny-telegram-calls)**: An automated wake-up call bot for Fajr prayers, utilizing py-tgcalls.
 - **[streamer-bot](https://github.com/Mohamedsalem-fn/streamer-bot)**: A professional livestream management system for Telegram (FastAPI, Aiogram).
+- **[tawasol-bot](https://github.com/Mohamedsalem-fn/tawasol-bot)**: A communication and bridging bot for Telegram.
+- **[telegram-lectures](https://github.com/Mohamedsalem-fn/telegram-lectures)**: An automated system for managing and delivering educational lectures on Telegram.
+- **[fanar-bot](https://github.com/Mohamedsalem-fn/fanar-bot)**: A specialized bot providing tailored services and information.
 
-### 🌐 Advanced Web Apps
+### 🕌 Islamic Tech & Education
+- **[Tahfiez](https://github.com/Mohamedsalem-fn/Tahfiez)**: A platform designed to assist in Quran memorization and tracking.
+- **[Islamic-Quiz-bots](https://github.com/Mohamedsalem-fn/Islamic-Quiz-bots)**: Interactive quiz bots for teaching Islamic knowledge.
+- **[Islamic-app-AR](https://github.com/Mohamedsalem-fn/Islamic-app-AR)**: An Augmented Reality (AR) application providing immersive Islamic educational experiences.
+- **[Fiqh-elmarah](https://github.com/Mohamedsalem-fn/Fiqh-elmarah)**: A comprehensive web platform dedicated to women's jurisprudence (Fiqh) in Islam.
+- **[Yoom-Arafa](https://github.com/Mohamedsalem-fn/Yoom-Arafa)**: A specialized portal providing resources and information for the Day of Arafah.
+
+### 🌐 Advanced Web Apps & APIs
+- **[APIs](https://github.com/Mohamedsalem-fn/APIs)**: A robust collection of scalable backend APIs powering various services and frontends.
 - **[bdf-generator](https://github.com/Mohamedsalem-fn/bdf-generator)**: A modern Next.js application for PDF/Document generation and management, built with Prisma.
 - **[Designer (Nova AI Studio)](https://github.com/Mohamedsalem-fn/Designer)**: A Galaxy-powered Frontend Specialist Agent capable of generating premium user interfaces.
+- **[B-fit](https://github.com/Mohamedsalem-fn/B-fit)**: A dedicated fitness dashboard and management application.
+- **[online-store](https://github.com/Mohamedsalem-fn/online-store)**: A scalable e-commerce platform built with modern web technologies.
 
-*(And over 20 more robust projects spanning E-commerce, Religious Tech, Fitness Dashboards, and more!)*
+*(And over 10 more robust projects spanning E-commerce, Religious Tech, Fitness Dashboards, and more!)*
 
 ---
 <p align="center">
