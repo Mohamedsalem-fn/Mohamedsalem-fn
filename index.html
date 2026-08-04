@@ -26,7 +26,11 @@ Copyright (c) 2026. All Rights Reserved.
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
+    <!-- Custom Cursor -->
+    <div class="cursor"></div>
+
     <!-- Background Elements -->
+    <canvas id="canvas-network"></canvas>
     <div class="bg-glow bg-glow-primary"></div>
     <div class="bg-glow bg-glow-secondary"></div>
     <div class="grid-overlay"></div>
@@ -49,10 +53,10 @@ Copyright (c) 2026. All Rights Reserved.
 
     <!-- Hero Section -->
     <header class="hero" id="home">
-        <div class="hero-content">
+        <div class="hero-content reveal">
             <span class="badge">Open to Innovations</span>
             <h1 class="hero-title">
-                Crafting <span class="gradient-text">Autonomous</span> Futures
+                <span class="typewriter"></span><span class="cursor-blink">|</span>
             </h1>
             <p class="hero-subtitle">
                 I am <strong class="text-glow">Mohamed Salem</strong>, an Expert AI Engineer & Automation Architect building state-of-the-art Multi-Agent Systems, MLOps pipelines, and intelligent automation workflows.
@@ -69,22 +73,22 @@ Copyright (c) 2026. All Rights Reserved.
     <!-- About Section -->
     <section class="section about" id="about">
         <div class="container">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <h2>The <span class="gradient-text">Architect</span> Behind the Code</h2>
                 <div class="divider"></div>
             </div>
             <div class="about-grid">
-                <div class="about-card glass-panel">
+                <div class="about-card glass-panel reveal" style="transition-delay: 0.1s;">
                     <div class="icon-box"><i class="fas fa-brain"></i></div>
                     <h3>AI Engineering</h3>
                     <p>Designing advanced Large Language Model (LLM) architectures, Agentic Workflows, and implementing robust RAG systems for real-world intelligence.</p>
                 </div>
-                <div class="about-card glass-panel">
+                <div class="about-card glass-panel reveal" style="transition-delay: 0.2s;">
                     <div class="icon-box"><i class="fas fa-cogs"></i></div>
                     <h3>Intelligent Automation</h3>
                     <p>Building highly scalable workflows using tools like n8n, Puppeteer, and Playwright to replace repetitive tasks with intelligent automation.</p>
                 </div>
-                <div class="about-card glass-panel">
+                <div class="about-card glass-panel reveal" style="transition-delay: 0.3s;">
                     <div class="icon-box"><i class="fas fa-server"></i></div>
                     <h3>Robust Architecture</h3>
                     <p>Architecting scalable backend systems using Python (FastAPI), Node.js, caching layers (Redis), and message queues (BullMQ).</p>
@@ -96,12 +100,12 @@ Copyright (c) 2026. All Rights Reserved.
     <!-- Capabilities / Tech Stack -->
     <section class="section skills" id="skills">
         <div class="container">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <h2>Core <span class="gradient-text">Capabilities</span></h2>
                 <div class="divider"></div>
             </div>
             <div class="skills-container">
-                <div class="skill-category glass-panel">
+                <div class="skill-category glass-panel reveal" style="transition-delay: 0.1s;">
                     <h3>AI & ML</h3>
                     <div class="skill-tags">
                         <span>LLMs</span>
@@ -111,7 +115,7 @@ Copyright (c) 2026. All Rights Reserved.
                         <span>RAG</span>
                     </div>
                 </div>
-                <div class="skill-category glass-panel">
+                <div class="skill-category glass-panel reveal" style="transition-delay: 0.2s;">
                     <h3>Languages & Backend</h3>
                     <div class="skill-tags">
                         <span>Python</span>
@@ -121,7 +125,7 @@ Copyright (c) 2026. All Rights Reserved.
                         <span>C++</span>
                     </div>
                 </div>
-                <div class="skill-category glass-panel">
+                <div class="skill-category glass-panel reveal" style="transition-delay: 0.3s;">
                     <h3>Automation & Infrastructure</h3>
                     <div class="skill-tags">
                         <span>Playwright</span>
@@ -138,13 +142,13 @@ Copyright (c) 2026. All Rights Reserved.
     <!-- Featured Projects -->
     <section class="section projects" id="projects">
         <div class="container">
-            <div class="section-header">
+            <div class="section-header reveal">
                 <h2>Featured <span class="gradient-text">Projects</span></h2>
                 <div class="divider"></div>
                 <p class="section-desc">A selection of my recent autonomous systems and web applications.</p>
             </div>
             
-            <div class="filter-controls">
+            <div class="filter-controls reveal">
                 <button class="filter-btn active" data-filter="all">All</button>
                 <button class="filter-btn" data-filter="ai">AI Agents</button>
                 <button class="filter-btn" data-filter="telegram">Telegram Bots</button>
@@ -153,7 +157,7 @@ Copyright (c) 2026. All Rights Reserved.
 
             <div class="projects-grid">
                 <!-- AI Project 1 -->
-                <div class="project-card glass-panel" data-category="ai">
+                <div class="project-card glass-panel reveal" data-category="ai">
                     <div class="project-header">
                         <i class="fas fa-robot project-icon"></i>
                         <div class="project-links">
@@ -170,7 +174,7 @@ Copyright (c) 2026. All Rights Reserved.
                 </div>
 
                 <!-- AI Project 2 -->
-                <div class="project-card glass-panel" data-category="ai">
+                <div class="project-card glass-panel reveal" data-category="ai">
                     <div class="project-header">
                         <i class="fas fa-comments project-icon"></i>
                         <div class="project-links">
@@ -186,7 +190,7 @@ Copyright (c) 2026. All Rights Reserved.
                 </div>
 
                 <!-- Telegram Project 1 -->
-                <div class="project-card glass-panel" data-category="telegram">
+                <div class="project-card glass-panel reveal" data-category="telegram">
                     <div class="project-header">
                         <i class="fab fa-telegram-plane project-icon"></i>
                         <div class="project-links">
@@ -202,7 +206,7 @@ Copyright (c) 2026. All Rights Reserved.
                 </div>
 
                 <!-- Telegram Project 2 -->
-                <div class="project-card glass-panel" data-category="telegram">
+                <div class="project-card glass-panel reveal" data-category="telegram">
                     <div class="project-header">
                         <i class="fas fa-video project-icon"></i>
                         <div class="project-links">
@@ -218,7 +222,7 @@ Copyright (c) 2026. All Rights Reserved.
                 </div>
 
                 <!-- Web Project 1 -->
-                <div class="project-card glass-panel" data-category="web">
+                <div class="project-card glass-panel reveal" data-category="web">
                     <div class="project-header">
                         <i class="fas fa-paint-brush project-icon"></i>
                         <div class="project-links">
@@ -234,7 +238,7 @@ Copyright (c) 2026. All Rights Reserved.
                 </div>
 
                 <!-- Web Project 2 -->
-                <div class="project-card glass-panel" data-category="web">
+                <div class="project-card glass-panel reveal" data-category="web">
                     <div class="project-header">
                         <i class="fas fa-server project-icon"></i>
                         <div class="project-links">
